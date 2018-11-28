@@ -1,11 +1,8 @@
-# gatsby-starter-blog
-Gatsby starter for creating a blog
+# drumsensei-blog
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
+Latest version of HQ for drumsensei internet presence.
 
-`gatsby new gatsby-blog https://github.com/gatsbyjs/gatsby-starter-blog`
 
-Or [view the live demo here](https://gatsby-starter-blog-demo.netlify.com/).
+## How we did it
 
-## Running in development
-`gatsby develop`
+- [gatsby-starter-blog](https://github.com/gatsbyjs/gatsby-starter-blog)
