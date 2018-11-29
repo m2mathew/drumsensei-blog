@@ -1,8 +1,12 @@
+// External Dependencies
 import React from 'react'
 import { Link } from 'gatsby'
 
+// Internal Dependencies
+import DsLogo from '../assets/ds-logo.svg';
 import { rhythm, scale } from '../utils/typography'
 
+// Component Definition
 class Layout extends React.Component {
   render() {
     const { location, title, children } = this.props
@@ -55,16 +59,37 @@ class Layout extends React.Component {
       )
     }
     return (
-      <div
-        style={{
-          marginLeft: 'auto',
-          marginRight: 'auto',
-          maxWidth: rhythm(24),
-          padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
-        }}
-      >
-        {header}
-        {children}
+      <div>
+        <nav
+          style={{
+            background: '#f5f5f5',
+            display: 'flex',
+            alignItems: 'center',
+            height: 64,
+            padding: '12px 32px',
+          }}
+        >
+          <div
+            style={{
+              height: 48,
+              transform: 'translateY(8px)',
+            }}
+          >
+            <DsLogo />
+          </div>
+        </nav>
+        <main
+          style={{
+            background: 'pink',
+            marginLeft: 'auto',
+            marginRight: 'auto',
+            maxWidth: rhythm(24),
+            padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
+          }}
+        >
+          {header}
+          {children}
+        </main>
       </div>
     )
   }
