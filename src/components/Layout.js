@@ -1,6 +1,7 @@
 // External Dependencies
 import React from 'react'
-import { Link } from 'gatsby'
+import get from 'lodash/get'
+// import { Link } from 'gatsby'
 
 // Internal Dependencies
 import DsLogo from '../assets/ds-logo.svg';
@@ -9,7 +10,12 @@ import { rhythm, scale } from '../utils/typography'
 // Component Definition
 class Layout extends React.Component {
   render() {
-    const { location, title, children } = this.props
+    const {
+      children,
+      description,
+      location,
+      title,
+    } = this.props
     const rootPath = `${__PATH_PREFIX__}/`
     let header
 
@@ -20,19 +26,18 @@ class Layout extends React.Component {
             color: 'rebeccapurple',
             ...scale(1.5),
             marginBottom: rhythm(1.5),
-            marginTop: 0,
+            marginTop: 64,
           }}
         >
-          <Link
+          <div
             style={{
               boxShadow: 'none',
               textDecoration: 'none',
               color: 'inherit',
             }}
-            to={'/'}
           >
-            {title}
-          </Link>
+            {description}
+          </div>
         </h1>
       )
     } else {
@@ -40,33 +45,39 @@ class Layout extends React.Component {
         <h3
           style={{
             color: 'rebeccapurple',
-            fontFamily: 'Montserrat, sans-serif',
-            marginTop: 0,
+            // fontFamily: 'Montserrat, sans-serif',
+            marginTop: 64,
             marginBottom: rhythm(-1),
           }}
         >
-          <Link
+          <div
             style={{
               boxShadow: 'none',
               textDecoration: 'none',
               color: 'inherit',
             }}
-            to={'/'}
           >
-            {title}
-          </Link>
+            {description}
+          </div>
         </h3>
       )
     }
     return (
-      <div>
+      <div
+        style={{
+          background: 'pink',
+        }}
+      >
         <nav
           style={{
             background: '#f5f5f5',
+            borderBottom: '4px solid #280154',
+            boxShadow: '3px 0 5px #280154',
             display: 'flex',
             alignItems: 'center',
             height: 64,
             padding: '12px 32px',
+            position: 'fixed',
           }}
         >
           <div
@@ -80,7 +91,7 @@ class Layout extends React.Component {
         </nav>
         <main
           style={{
-            background: 'pink',
+            background: '#f5f5f5',
             marginLeft: 'auto',
             marginRight: 'auto',
             maxWidth: rhythm(24),
@@ -96,3 +107,13 @@ class Layout extends React.Component {
 }
 
 export default Layout
+
+export const pageQuery = graphql`
+  query {
+    site {
+      siteMetadata {
+        description
+      }
+    }
+  }
+`
