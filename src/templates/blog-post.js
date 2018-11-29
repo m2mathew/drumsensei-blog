@@ -11,14 +11,15 @@ class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
     const siteTitle = get(this.props, 'data.site.siteMetadata.title')
-    const siteDescription = post.excerpt
+    const siteDescription = get(this.props, 'data.site.siteMetadata.description')
+    const postDescription = post.excerpt
     const { previous, next } = this.props.pageContext
 
     return (
-      <Layout location={this.props.location} title={siteTitle}>
+      <Layout location={this.props.location} title={siteTitle} description={siteDescription}>
         <Helmet
           htmlAttributes={{ lang: 'en' }}
-          meta={[{ name: 'description', content: siteDescription }]}
+          meta={[{ name: 'description', content: postDescription }]}
           title={`${post.frontmatter.title} | ${siteTitle}`}
         />
         <h1>{post.frontmatter.title}</h1>
@@ -78,6 +79,7 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+        description
         author
       }
     }

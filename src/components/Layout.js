@@ -44,6 +44,7 @@ class Layout extends React.Component {
         </h1>
       )
     } else {
+      console.log('1');
       header = (
         <h3
           style={{
