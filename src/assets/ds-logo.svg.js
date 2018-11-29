@@ -14,8 +14,8 @@ const cls2Styles = {
 };
 
 // Component Definition
-const DsLogo = () => (
-  <svg xmlns="http://www.w3.org/2000/svg">
+const DsLogo = (props) => (
+  <svg xmlns="http://www.w3.org/2000/svg" style={props.svgStyles}>
    <title>Drumsensei Logo</title>
    <g id="Green">
      <text style={cls1Styles} transform="translate(0.68 31)">

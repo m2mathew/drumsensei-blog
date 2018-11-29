@@ -44,7 +44,6 @@ class Layout extends React.Component {
         </h1>
       )
     } else {
-      console.log('1');
       header = (
         <h3
           style={{
@@ -82,14 +81,10 @@ class Layout extends React.Component {
             height: 64,
             padding: '12px 32px',
             position: 'fixed',
+            width: '100%',
           }}
         >
-          <div
-            style={{
-              height: 48,
-              transform: 'translateY(8px)',
-            }}
-          >
+          <div>
             <Link
               to="/"
               style={{
@@ -98,7 +93,13 @@ class Layout extends React.Component {
                 color: 'inherit',
               }}
             >
-              <DsLogo />
+              <DsLogo
+                svgStyles={{
+                  transform: 'translateY(10px)',
+                  height: 48,
+                  width: 'auto',
+                }}
+              />
             </Link>
           </div>
         </nav>
