@@ -68,12 +68,12 @@ class Layout extends React.Component {
     return (
       <div
         style={{
-          background: 'pink',
+          background: '#fafafa',
         }}
       >
         <nav
           style={{
-            background: '#f5f5f5',
+            background: 'lavenderblush',
             borderBottom: `4px solid ${PrestoDarkPurple}`,
             boxShadow: `3px 0 5px ${PrestoDarkPurple}`,
             display: 'flex',
@@ -105,7 +105,6 @@ class Layout extends React.Component {
         </nav>
         <main
           style={{
-            background: '#f5f5f5',
             marginLeft: 'auto',
             marginRight: 'auto',
             maxWidth: rhythm(24),
