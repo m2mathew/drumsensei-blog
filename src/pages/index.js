@@ -1,12 +1,18 @@
-import React from 'react'
-import { Link, graphql } from 'gatsby'
+// External Dependencies
 import get from 'lodash/get'
 import Helmet from 'react-helmet'
+import React from 'react'
+import {
+  Link,
+  graphql,
+} from 'gatsby'
 
+// Internal Dependencies
 import Bio from '../components/Bio'
 import Layout from '../components/Layout'
 import { rhythm } from '../utils/typography'
 
+// Component Definition
 class BlogIndex extends React.Component {
   render() {
     const siteTitle = get(this, 'props.data.site.siteMetadata.title')

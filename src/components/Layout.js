@@ -1,7 +1,9 @@
 // External Dependencies
 import React from 'react'
 import get from 'lodash/get'
-import { Link } from 'gatsby'
+import {
+  Link,
+} from 'gatsby'
 
 // Internal Dependencies
 import DsLogo from '../assets/ds-logo.svg';
@@ -68,7 +70,7 @@ class Layout extends React.Component {
     return (
       <div
         style={{
-          background: '#fafafa',
+          background: '#f5f5f5',
         }}
       >
         <nav
@@ -120,13 +122,3 @@ class Layout extends React.Component {
 }
 
 export default Layout
-
-export const pageQuery = graphql`
-  query {
-    site {
-      siteMetadata {
-        description
-      }
-    }
-  }
-`
