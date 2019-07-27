@@ -1,11 +1,12 @@
 // External Dependencies
 import React from 'react'
-import get from 'lodash/get'
+// import get from 'lodash/get'
 import {
   Link,
 } from 'gatsby'
 
 // Internal Dependencies
+import Footer from './Footer';
 import DsLogo from '../assets/ds-logo.svg';
 import { rhythm, scale } from '../utils/typography'
 
@@ -19,8 +20,9 @@ class Layout extends React.Component {
       children,
       description,
       location,
-      title,
+      // title,
     } = this.props
+
     const rootPath = `${__PATH_PREFIX__}/`
     let header
 
@@ -116,6 +118,7 @@ class Layout extends React.Component {
           {header}
           {children}
         </main>
+        <Footer />
       </div>
     )
   }

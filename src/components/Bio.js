@@ -1,3 +1,4 @@
+// External Dependencies
 import React from 'react'
 
 // Import typefaces
@@ -7,6 +8,7 @@ import 'typeface-merriweather'
 import profilePic from './mike-avatar.jpeg'
 import { rhythm } from '../utils/typography'
 
+// Component Definition
 class Bio extends React.Component {
   render() {
     return (
@@ -18,7 +20,7 @@ class Bio extends React.Component {
       >
         <img
           src={profilePic}
-          alt={`Kyle Mathews`}
+          alt="Michael D. Mathew."
           style={{
             borderRadius: 50,
             marginRight: rhythm(1 / 2),
@@ -28,9 +30,9 @@ class Bio extends React.Component {
           }}
         />
         <p>
-          Written by <strong>Mike Mathew</strong> who lives and works in Dallas building useful things.{' '}
+          Written by <strong><a href="https://www.mikemathew.com/">Mike Mathew</a></strong> who lives and works in Dallas building useful things.{' '}
           <a href="https://twitter.com/drumsensei">
-            You should follow him on Twitter
+            Sometimes he tweets.
           </a>
         </p>
       </div>
