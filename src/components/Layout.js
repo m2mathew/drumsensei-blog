@@ -88,23 +88,44 @@ class Layout extends React.Component {
             width: '100%',
           }}
         >
-          <div>
-            <Link
-              to="/"
-              style={{
-                boxShadow: 'none',
-                textDecoration: 'none',
-                color: 'inherit',
-              }}
-            >
-              <DsLogo
-                svgStyles={{
-                  transform: 'translateY(10px)',
-                  height: 48,
-                  width: 'auto',
+          <div
+            style={{
+              alignItems: 'center',
+              display: 'flex',
+              justifyContent: 'space-between',
+              width: '100%',
+            }}
+          >
+            <div>
+              <Link
+                to="/"
+                style={{
+                  boxShadow: 'none',
+                  textDecoration: 'none',
+                  color: 'inherit',
                 }}
-              />
-            </Link>
+              >
+                <DsLogo
+                  svgStyles={{
+                    transform: 'translateY(10px)',
+                    height: 48,
+                    width: 'auto',
+                  }}
+                />
+              </Link>
+            </div>
+            <div>
+              <Link
+                to="/about"
+                style={{
+                  boxShadow: 'none',
+                  textDecoration: 'none',
+                  color: 'inherit',
+                }}
+              >
+                About
+              </Link>
+            </div>
           </div>
         </nav>
         <main
