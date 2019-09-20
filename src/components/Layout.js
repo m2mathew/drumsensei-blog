@@ -14,135 +14,129 @@ import { rhythm, scale } from '../utils/typography'
 const PrestoDarkPurple = '#280154';
 
 // Component Definition
-class Layout extends React.Component {
-  render() {
-    const {
-      children,
-      description,
-      location,
-      // title,
-    } = this.props
+const Layout = (props) => {
+  const {
+    children,
+    description,
+    location,
+    // title,
+  } = props
 
-    const rootPath = `${__PATH_PREFIX__}/`
-    let header
+  const rootPath = `${__PATH_PREFIX__}/`
+  let header
 
-    if (location.pathname === rootPath) {
-      header = (
-        <h1
-          style={{
-            color: 'rebeccapurple',
-            ...scale(1.5),
-            marginBottom: rhythm(1.5),
-            marginTop: 64,
-          }}
-        >
-          <div
-            style={{
-              boxShadow: 'none',
-              textDecoration: 'none',
-              color: 'inherit',
-            }}
-          >
-            {description}
-          </div>
-        </h1>
-      )
-    } else {
-      header = (
-        <h3
-          style={{
-            color: 'rebeccapurple',
-            fontFamily: 'Montserrat, sans-serif',
-            marginTop: 64,
-            marginBottom: rhythm(-1),
-          }}
-        >
-          <div
-            style={{
-              boxShadow: 'none',
-              textDecoration: 'none',
-              color: 'inherit',
-            }}
-          >
-            {description}
-          </div>
-        </h3>
-      )
-    }
-    return (
-      <div
+  if (location.pathname === rootPath) {
+    header = (
+      <h1
         style={{
-          background: '#f5f5f5',
+          color: 'rebeccapurple',
+          ...scale(1.5),
+          marginBottom: rhythm(1.5),
+          marginTop: 64,
         }}
       >
-        <nav
+        <div
           style={{
-            background: 'lavenderblush',
-            borderBottom: `4px solid ${PrestoDarkPurple}`,
-            boxShadow: `3px 0 5px ${PrestoDarkPurple}`,
-            display: 'flex',
+            boxShadow: 'none',
+            textDecoration: 'none',
+            color: 'inherit',
+          }}
+        >
+          {description}
+        </div>
+      </h1>
+    )
+  } else {
+    header = (
+      <h3
+        style={{
+          color: 'rebeccapurple',
+          fontFamily: 'Montserrat, sans-serif',
+          marginTop: 64,
+          marginBottom: rhythm(-1),
+        }}
+      >
+        <div
+          style={{
+            boxShadow: 'none',
+            textDecoration: 'none',
+            color: 'inherit',
+          }}
+        >
+          {description}
+        </div>
+      </h3>
+    )
+  }
+  return (
+    <div>
+      <nav
+        style={{
+          background: 'lavenderblush',
+          borderBottom: `4px solid ${PrestoDarkPurple}`,
+          boxShadow: `3px 0 5px ${PrestoDarkPurple}`,
+          display: 'flex',
+          alignItems: 'center',
+          height: 64,
+          padding: '12px 32px',
+          position: 'fixed',
+          width: '100%',
+        }}
+      >
+        <div
+          style={{
             alignItems: 'center',
-            height: 64,
-            padding: '12px 32px',
-            position: 'fixed',
+            display: 'flex',
+            justifyContent: 'space-between',
             width: '100%',
           }}
         >
-          <div
-            style={{
-              alignItems: 'center',
-              display: 'flex',
-              justifyContent: 'space-between',
-              width: '100%',
-            }}
-          >
-            <div>
-              <Link
-                to="/"
-                style={{
-                  boxShadow: 'none',
-                  textDecoration: 'none',
-                  color: 'inherit',
+          <div>
+            <Link
+              to="/"
+              style={{
+                boxShadow: 'none',
+                textDecoration: 'none',
+                color: 'inherit',
+              }}
+            >
+              <DsLogo
+                svgStyles={{
+                  transform: 'translateY(10px)',
+                  height: 48,
+                  width: 'auto',
                 }}
-              >
-                <DsLogo
-                  svgStyles={{
-                    transform: 'translateY(10px)',
-                    height: 48,
-                    width: 'auto',
-                  }}
-                />
-              </Link>
-            </div>
-            <div>
-              <Link
-                to="/about"
-                style={{
-                  boxShadow: 'none',
-                  textDecoration: 'none',
-                  color: 'inherit',
-                }}
-              >
-                About
-              </Link>
-            </div>
+              />
+            </Link>
           </div>
-        </nav>
-        <main
-          style={{
-            marginLeft: 'auto',
-            marginRight: 'auto',
-            maxWidth: rhythm(25),
-            padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
-          }}
-        >
-          {header}
-          {children}
-        </main>
-        <Footer />
-      </div>
-    )
-  }
-}
+          <div>
+            <Link
+              to="/about"
+              style={{
+                boxShadow: 'none',
+                textDecoration: 'none',
+                color: 'inherit',
+              }}
+            >
+              About
+            </Link>
+          </div>
+        </div>
+      </nav>
+      <main
+        style={{
+          marginLeft: 'auto',
+          marginRight: 'auto',
+          maxWidth: rhythm(25),
+          padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
+        }}
+      >
+        {header}
+        {children}
+      </main>
+      <Footer />
+    </div>
+  )
+};
 
 export default Layout
