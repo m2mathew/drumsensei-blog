@@ -30,7 +30,7 @@ const Layout = (props) => {
       <h1
         style={{
           color: 'rebeccapurple',
-          ...scale(1.5),
+          ...scale(1.2),
           marginBottom: rhythm(1.5),
           marginTop: 64,
         }}

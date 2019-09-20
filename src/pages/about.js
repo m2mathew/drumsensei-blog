@@ -29,7 +29,16 @@ const About = (props) => {
             But most people call me Mike. I’m a developer/designer & musician based
             out of the Dallas/Fort Worth area. I like to make pretty things that
             help people. For the last three years (and counting) I have worked as a
-            software engineer at Call-Em-All in Frisco, TX. I also help organize the{' '}
+            software engineer at
+            {' '}
+            <a href="https://www.call-em-all.com/">Call-Em-All</a>
+            {' '}
+            in Frisco, TX. I occasionally help mentor young coding ninjas at the
+            {' '}
+            <a href="https://dojo.call-em-all.com/">Frisco Coder Dojo</a>
+            {' '}
+            . I also help organize the
+            {' '}
             <a href="https://www.meetup.com/ReactJS-Dallas/">
               ReactJS Dallas software meetup
             </a>. My software development career kicked off at the (former) code
