@@ -81,6 +81,7 @@ const Layout = (props) => {
           padding: '12px 32px',
           position: 'fixed',
           width: '100%',
+          zIndex: 1000,
         }}
       >
         <div
