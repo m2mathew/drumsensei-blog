@@ -15,23 +15,28 @@ import { rhythm } from '../utils/typography'
 // Component Definition
 class BlogIndex extends React.Component {
   render() {
-    const siteTitle = get(this, 'props.data.site.siteMetadata.title')
-    const siteDescription = get(
-      this,
-      'props.data.site.siteMetadata.description'
-    )
-    const posts = get(this, 'props.data.allMarkdownRemark.edges')
+    const {
+      allMarkdownRemark: {
+        edges: posts,
+      },
+      site: {
+        siteMetadata: {
+          description,
+          title,
+        },
+      },
+    } = this.props.data;
 
     return (
       <Layout
-        description={siteDescription}
+        description={description}
         location={this.props.location}
-        title={siteTitle}
+        title={title}
       >
         <Helmet
           htmlAttributes={{ lang: 'en' }}
-          meta={[{ name: 'description', content: siteDescription }]}
-          title={siteTitle}
+          meta={[{ name: 'description', content: description }]}
+          title={title}
         />
         <Bio />
         {posts.map(({ node }) => {
