@@ -3,7 +3,7 @@ title: "Switching Gears"
 date: "2015-08-01"
 ---
 
-Well, I am leaving the formal teaching profession to do something completely different. When all of my kiddos and so many friends across the state go back to school in late August, I will also start school. For 12 weeks I will be in an immersive program called **[The Iron Yard](http://www.theironyard.com)** in Austin, Texas. This coding bootcamp is designed to teach me how to graduate with the skills to be a [Front-End Developer](https://en.wikipedia.org/wiki/Front_end_development), which is fancy-talk for someone who makes the parts of websites that everyone can see. When I come up for air around Thanksgiving, I will be taking my skills to a company where I can create cool things and make a difference in my community writ large. My hope is to continue to keep our family in the Dallas area, but we will have to see what happens!
+Well, I am leaving the formal teaching profession to do something completely different. When all of my kiddos and so many friends across the state go back to school in late August, I will also start school. For 12 weeks I will be in an immersive program called **The Iron Yard** in Austin, Texas. This coding bootcamp is designed to teach me how to graduate with the skills to be a [Front-End Developer](https://en.wikipedia.org/wiki/Front_end_development), which is fancy-talk for someone who makes the parts of websites that everyone can see. When I come up for air around Thanksgiving, I will be taking my skills to a company where I can create cool things and make a difference in my community writ large. My hope is to continue to keep our family in the Dallas area, but we will have to see what happens!
 
 A bit of history leading to this…
 
@@ -21,4 +21,4 @@ Special thanks to my amazing wife for continuing to support me through this craz
 
 You never know … maybe I find a new passion has been ignited that I enjoy and can get paid to do … or maybe I am clicking sticks in front of a drum line in a few years after all! I am always listening and trying to go the right way.
 
-If you feel like supporting a future hacker/coder, then feel free to peruse my [Amazon wish list](http://www.amazon.com/gp/registry/wishlist/3QT875G1ONKJT/ref=topnav_lists_1). Regardless, please drop me a line on [Facebook](https://www.facebook.com/m2mathew) or [Twitter](https://twitter.com/drumsensei). Now, some percussion posts to get to…
+If you feel like supporting a future hacker/coder, then feel free to peruse my [Amazon wish list](https://www.amazon.com/gp/registry/wishlist/3QT875G1ONKJT/ref=topnav_lists_1). Regardless, please drop me a line on [Facebook](https://www.facebook.com/m2mathew) or [Twitter](https://twitter.com/drumsensei). Now, some percussion posts to get to…

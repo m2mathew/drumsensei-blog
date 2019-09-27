@@ -5,13 +5,13 @@ date: "2015-08-27"
 
 ## Sass
 
-![sassy-sunglasses](http://res.cloudinary.com/drumsensei/image/upload/v1514954685/2015-08-27_1_ykljmc.svg)
+![sassy-sunglasses](https://res.cloudinary.com/drumsensei/image/upload/v1514954685/2015-08-27_1_ykljmc.svg)
 
 _(image courtesy of sass-lang.com)_
 
 Whoa, baby, this stuff is cool. Syntactically Awesome Style Sheets or, SASS, makes writing CSS a much easier process. There are two versions. Hamburger A is Sass, Hamburger B is SCSS.
 
-We learned about the SCSS flavor in class today at [The Iron Yard](http://www.theironyard.com/). Sass lets a developer write complex CSS in a simplified way using various patterns.
+We learned about the SCSS flavor in class today at The Iron Yard. Sass lets a developer write complex CSS in a simplified way using various patterns.
 
 ## Nesting
 
@@ -70,4 +70,4 @@ a {
 
 You are building your site and all is fine until one afternoon your client says that she really wants a **deeper shade of green**. No sweat if you used the `$primaryColor` variable. Just go switch the variable at the top of the file and all of the colors switch throughout the layout.
 
-Thankfully, there was also a meetup for ATXSass the very same day that I learned about Sass. What a break! I headed downtown to the [Capital Factory](http://capitalfactory.com/) and learned more about Sass from [Abby Larner](http://abbylarner.com/) and [Una Kravets](http://unakravets.com/about.html). More to come about Sass, so stay tuned.
+Thankfully, there was also a meetup for ATXSass the very same day that I learned about Sass. What a break! I headed downtown to the [Capital Factory](https://capitalfactory.com/) and learned more about Sass from [Abby Larner](https://abbylarner.com/) and [Una Kravets](https://unakravets.com). More to come about Sass, so stay tuned.

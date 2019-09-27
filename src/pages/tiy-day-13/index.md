@@ -5,9 +5,9 @@ date: "2015-09-15"
 
 ## JS + HTML = 😎
 
-Our homework over the weekend was to construct a to-do list using vanilla JavaScript i.e. just plain ol' JavaScript with no bonus features or extra doodly-whatsits. [My implementation](http://www.drumsensei.com/warehouse/homework/vanilla-todo-list/index.html) of this works pretty well. I wanted to add a few more features to it, but I had to learn some deeper concepts first.
+Our homework over the weekend was to construct a to-do list using vanilla JavaScript i.e. just plain ol' JavaScript with no bonus features or extra doodly-whatsits. [My implementation](https://www.drumsensei.com/warehouse/homework/vanilla-todo-list/index.html) of this works pretty well. I wanted to add a few more features to it, but I had to learn some deeper concepts first.
 
-On Friday [our instructor](http://nutellahabit.com/) told us it was his favorite day of the entire span of twelve weeks. We officially learned to connect JavaScript to our HTML to produce a page like we are used to seeing in the wild. Remember, [constant reader](http://stephenking.com/index.html), the JavaScript is what enables actions to happen on the page inside of your browser. For instance, if you look at [my very plain to-do list](http://www.drumsensei.com/warehouse/homework/vanilla-todo-list/index.html), you will notice that clicking the button next to the text input area will make that text appear below in a list format. While this may seem like an easy task, it does involve many steps.
+On Friday our instructor Aaron (nutellahabit dot com) told us it was his favorite day of the entire span of twelve weeks. We officially learned to connect JavaScript to our HTML to produce a page like we are used to seeing in the wild. Remember, [constant reader](https://stephenking.com/index.html), the JavaScript is what enables actions to happen on the page inside of your browser. For instance, if you look at my [very plain to-do list](https://github.com/m2mathew/vanilla-todo-list), you will notice that clicking the button next to the text input area will make that text appear below in a list format. While this may seem like an easy task, it does involve many steps.
 
 First, we target the specific areas on the webpage that need action. On my list, those specific areas are the input text field, the clickable button and the "list" section below that.
 
@@ -19,4 +19,4 @@ My reset button on the list example works in a similar fashion. It is "listening
 
 In honor of our teacher [Aaron](https://twitter.com/alarner), enjoy some nutella...
 
-![cat-eating-nutella](http://res.cloudinary.com/drumsensei/image/upload/v1515473731/nutella-cat_muwza6.gif)
+![cat-eating-nutella](https://res.cloudinary.com/drumsensei/image/upload/v1515473731/nutella-cat_muwza6.gif)

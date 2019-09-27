@@ -9,7 +9,7 @@ I still code almost every day. [My GitHub commits](https://github.com/m2mathew) 
 
 ##### Looks like I took at least two weeks off, kinda! 😜
 
-I recently ran into a snag with an app we are building at my workplace. This is the desktop "single page app," as the kids say these days. We use React for the front end alongside our favorite open source library [Material-UI](http://www.material-ui.com). Like most modern web apps, we jumped on the webpack train. This useful tool helps us build our app for a development or production environment. Webpack is flexible enough to allow many customizations through plug-ins and other fiddling with the code.
+I recently ran into a snag with an app we are building at my workplace. This is the desktop "single page app," as the kids say these days. We use React for the front end alongside our favorite open source library [Material-UI](https://www.material-ui.com). Like most modern web apps, we jumped on the webpack train. This useful tool helps us build our app for a development or production environment. Webpack is flexible enough to allow many customizations through plug-ins and other fiddling with the code.
 
 We use handy webpack plug-ins that do tasks like:
 
@@ -31,11 +31,11 @@ Under the hood, webpack reduces the size of the files so much by doing some pret
 
 We might have a function like this to find the sum of two numbers:
 
-![function-named-sum-before-uglification](http://res.cloudinary.com/drumsensei/image/upload/v1517119999/uglify-code-1_jkbsnm.png)
+![function-named-sum-before-uglification](https://res.cloudinary.com/drumsensei/image/upload/v1517119999/uglify-code-1_jkbsnm.png)
 
 When we uglify the code, we might get something similar to this (but with even less whitespace than this):
 
-![function-named-sum-after-uglification](http://res.cloudinary.com/drumsensei/image/upload/v1517119775/uglify-code-2_qne0qq.jpg)
+![function-named-sum-after-uglification](https://res.cloudinary.com/drumsensei/image/upload/v1517119775/uglify-code-2_qne0qq.jpg)
 
 If you multiply this reduction in character size across 1,000 functions, you can imagine why this is an important process to add to any production-facing application.
 
@@ -45,7 +45,7 @@ For instance, you spin up the app, and your account information never gets loade
 
 In the case of a credit card transaction, there are MANY different possible errors that occur: invalid CVN, invalid Postal Code, et al. We handle those specific types of errors by constructing a new object and labeling it with the new **name** "HttpError". When we checked for this error to display a specific credit card error message on our local machines everything worked great! We shipped it to a production test environment, and it always failed…not just wrong error, but entire app crashes and burns.
 
-![crash-bandicoot](http://res.cloudinary.com/drumsensei/image/upload/v1517121162/crash-bandicoot-dribbble_kn2q8z.jpg)
+![crash-bandicoot](https://res.cloudinary.com/drumsensei/image/upload/v1517121162/crash-bandicoot-dribbble_kn2q8z.jpg)
 
 ##### Oops—wrong kind of crash
 
@@ -55,14 +55,14 @@ Turns out, our newly constructed HttpError object was renamed to `r` in producti
 
 So, this little line of code:
 
-![throw-error-code-v1](http://res.cloudinary.com/drumsensei/image/upload/v1517121169/uglify-code-3_pvh30c.jpg)
+![throw-error-code-v1](https://res.cloudinary.com/drumsensei/image/upload/v1517121169/uglify-code-3_pvh30c.jpg)
 
 Became this line of code:
 
-![throw-error-code-v2-and-final](http://res.cloudinary.com/drumsensei/image/upload/v1517121172/uglify-code-4_jekmpw.jpg)
+![throw-error-code-v2-and-final](https://res.cloudinary.com/drumsensei/image/upload/v1517121172/uglify-code-4_jekmpw.jpg)
 
 And we lived happily ever after.
 
-![dancing-nutella](http://res.cloudinary.com/drumsensei/image/upload/v1517121179/dancing_nutella_ejrihe.gif)
+![dancing-nutella](https://res.cloudinary.com/drumsensei/image/upload/v1517121179/dancing_nutella_ejrihe.gif)
 
 Webpack and its surrounding orbit of tools makes modern app development very efficient and better for developers/users. BUT, one must be ever steadfast in understanding the "in"s and "out"s and "what-have-you"s of the what the tool is doing behind the scenes.

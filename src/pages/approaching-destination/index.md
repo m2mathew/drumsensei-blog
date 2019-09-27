@@ -7,11 +7,11 @@ date: "2015-11-04"
 
 I now find myself in week 11 out of 12 in my studies at The Iron Yard-Austin. Much has happened recently, so what follows is a quick recap of the past few weeks since last I updated the web log.
 
-![jake-from-adventure-time](http://res.cloudinary.com/drumsensei/image/upload/v1515821681/adventure-time-jake_dvlyaw.png)
+![jake-from-adventure-time](https://res.cloudinary.com/drumsensei/image/upload/v1515821681/adventure-time-jake_dvlyaw.png)
 
 ### Whiteboarding
 
-We began to practice [whiteboarding](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/) in class in front of the entire group. I went first and was charged with this task: create a function using vanilla JavaScript that, given two integers, returns the greater of the two. All went smoothly and quickly. I wrote down some test cases like `[1, 2]` or `[2, 20]` or `[a, 3]` and made my way through it fine.
+We began to practice whiteboarding in class in front of the entire group. I went first and was charged with this task: create a function using vanilla JavaScript that, given two integers, returns the greater of the two. All went smoothly and quickly. I wrote down some test cases like `[1, 2]` or `[2, 20]` or `[a, 3]` and made my way through it fine.
 
 Then I realized that I had not named my function...and I thought about it with everyone watching me...and I could not remember how to name a function, how to declare a function in JavaScript - which I have done for MONTHS now dating back to last March when I began studying this wonderful language. ME - a person who has used a whiteboard as an extension of my teaching brain for many, many years. I froze when confronted with that small task. So weird.
 
@@ -43,7 +43,7 @@ As with most things in computer science, I dig learning how the computers work. 
 
 ### TED Talks
 
-As a former co-worker of Frank Troyka, the venerated teacher and leader of young people, and a lifelong learner, I have been watching TED talks for many years. The [talk with Simon Sinek](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action) about "How great leaders inspire action" is definitely a good one. The golden circle principle is well-explained and instantly makes sense with his illustrations and examples. TL;DR know **WHY** you are doing what you are doing.
+As a former co-worker of Frank Troyka, the venerated teacher and leader of young people, and a lifelong learner, I have been watching TED talks for many years. The [talk with Simon Sinek](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action) about "How great leaders inspire action" is definitely a good one. The golden circle principle is well-explained and instantly makes sense with his illustrations and examples. TL;DR know **WHY** you are doing what you are doing.
 
 ### Angular
 

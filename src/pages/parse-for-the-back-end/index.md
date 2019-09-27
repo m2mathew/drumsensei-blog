@@ -15,6 +15,6 @@ Below is a functional register-login page that I put together using Parse, React
 
 Also, I did not really optimize it for mobile, so the navigation menu does not render properly on mobile yet. I know, I KNOW, that I should have done this first! Anyhow, do check it out if you are out and about on a desktop or laptop computer, and let me know what you think!
 
-![millennium-falcon](http://res.cloudinary.com/drumsensei/image/upload/v1515697324/mill-falcon-dribble_ow38pc.jpg)
+![millennium-falcon](https://res.cloudinary.com/drumsensei/image/upload/v1515697324/mill-falcon-dribble_ow38pc.jpg)
 
 ##### Image created by reddit.com user Charlie

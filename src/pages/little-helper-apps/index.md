@@ -5,7 +5,7 @@ date: "2017-04-01"
 
 My wife was recently telling me that she likes using the "little thingy" to change the size of the app running on her laptop. After a short conversation about the app, I started thinking that I use several "little thingy" apps on my Mac to help stay organized and quickly do some tasks. These apps save me a lot of time and help me
 
-![mr-burns-excellent](http://res.cloudinary.com/drumsensei/image/upload/v1516025293/mr-burns-excellent_oaixhf.gif)
+![mr-burns-excellent](https://res.cloudinary.com/drumsensei/image/upload/v1516025293/mr-burns-excellent_oaixhf.gif)
 
 ### [Flux](https://justgetflux.com/)
 
@@ -33,11 +33,11 @@ More than a to-do list! This is a tremendous project management tool. Let's cons
 
 You only need one password. Make it crazy long…and awkward to type…and include spaces. Please don't re-use passwords. We live in the future now. This app will make it simple to automatically generate a 64-character password that is absolutely bananas. You don't even need to remember the passwords for your multiple logins. The app does that! I continue to talk to really smart people not using this app (or one like it), and it befuddles me. I even go in periodically and change my super-long, super-secure password to make sure I am staying fresh and ultra-safe. Cyber-security is SO HOT right now. Protect yourself.
 
-### [nvALT](http://brettterpstra.com/projects/nvalt/)
+### [nvALT](https://brettterpstra.com/projects/nvalt/)
 
 We all write little things down on scraps of paper. How many sticky notes are on your desk _right now_? (I have four!) This happy little app helps you keep all of your notes in one place. I accessed this twice today to look up something from long ago that was not quite worthy of it's own spreadsheet, but made perfect sense in a collection of small notes. Keep them all together.
 
-### [LICEcap](http://www.cockos.com/licecap/)
+### [LICEcap](https://www.cockos.com/licecap/)
 
 The internet is littered with millions of .gifs now (do you say GIFF or JIFF? 😂). LICEcap lets you quickly and easily capture a video of your screen. Our team uses this to provide a short video of a software feature that we have built. You might use it for something more fun!
 

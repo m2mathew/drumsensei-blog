@@ -1,18 +1,34 @@
 ---
-title: "The Iron Yard - Day 05"
-date: "2015-09-01"
+title: "The Iron Yard - Day 06"
+date: "2015-09-02"
 ---
 
-## JavaScript
+## Digging Deeper
 
-Solidly into week 2 now and things got **real**. Our JavaScript assignment was pretty straightforward, and I had no issue getting that done. We had to make a table in HTML with some answers to JavaScript questions that Aaron provided to us. [My version](http://www.drumsensei.com/warehouse/homework/js-variables/index.html) of the assignment ended up looking very nice. I learned some nifty things about using tables in HTML. Thankfully I have studied a decent amount of JavaScript to prepare for the course. It does tend to make sense to me overall.
+On Tuesday we dove a little deeper into JavaScript discussing boolean operators, the ternary operator, and conditional statements.
 
-![html-letters-melting](http://res.cloudinary.com/drumsensei/image/upload/v1515222300/2015-09-01_1_gnofkn.png)
+![js-logo](https://res.cloudinary.com/drumsensei/image/upload/v1515222850/2015-09-02_1_wvwoau.jpg)
 
-Our other assignment has me twisted in knots. It deals with using forms in HTML, just like the little buttons a user will push or the checkboxes you see on a website. I have the page looking _mostly_ right except a few elements just will not go into the correct place. I could only get about 60% of the way through the homework before I had to sleep. Hopefully this is a situation where things will just click when I approach it again in a bit.
+We also discussed several scenarios that JavaScript handles in a quirky way. Type coercion in JS has its own rules that will be wonderful to harness once a developer can fully grasp them.
 
-Apparently, radio buttons and their text are nonsense to my brain on a Monday evening. I will have to work overtime to be able to get those up and running!
+For instance, let's assign a value to the variable "name" and put it into an important sentence:
 
-Breaks are helpful, I am finding. Occasionally you just have to get up and take a walk outside for a few minutes. In fact, your brain is still turning that problem round and round to work on it. Many times I have sat back down and busted out some serious problem-solving skills. Waking up and coding is just as beneficial.
+```
+var name = "Mike";
+var statement = name + " is really cool";
+var name = "Bob";
+console.log(statement);
+```
 
-Time to head to Day-06! Woot!
+One would think that the output would be "Bob is really cool"... Nope, it is still "Mike is really cool". Confused yet? The logic works like this:
+
+1.  **Name** holds the value "Mike"
+2.  **Statement** holds the value "Mike is really cool"
+3.  **Name** is given a new value of "Bob" which replaces the original of "Mike"
+4.  **Statement** is asked to show the value it contains, which is still "Mike" - we did not put a new value into Statement
+
+Our homework was to use plain JavaScript to create a command line quiz in either normal mode, hard mode, or nightmare mode. We were to include 15 items that covered various HTML, CSS, and JS topics and then tell the user their number correct and percentage. I finished that and made some adjustments to also tell the user which topics they did best in and I made it display the correct answer if the user gets the question wrong. I also added a timer to tell the length of the test. As a bonus, I made a "100" display in ASCII characters if they get every question correct.
+
+The nightmare mode (which I did not employ) asked the developer to make the quiz adaptive based on the success of the answered questions. I could see how this is possible, but my code would have been MUCH longer to make it work.
+
+Now, I am _still_ working on my HTML forms homework from Monday. **I will finish this TODAY!!**

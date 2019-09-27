@@ -7,7 +7,7 @@ date: "2015-09-30"
 
 During this career-transition for me, I have aimed at sharing some of my insights and findings in this space. A little blurb and a link on Twitter and Facebook here and there lets me share this journey with people back home, and maybe some new friends and adventures will come out of it in the future.
 
-![question-mark](http://res.cloudinary.com/drumsensei/image/upload/v1515648423/question-mark_qevtxo.jpg)
+![question-mark](https://res.cloudinary.com/drumsensei/image/upload/v1515648423/question-mark_qevtxo.jpg)
 
 About two weeks ago I posted a blurb on Facebook about a blog post, and consequently entertained [a great question](https://www.facebook.com/m2mathew/posts/10205305627219889?comment_id=10205310298496668&notif_t=comment_mention) from a former percussion student Cody Simmons that I taught about nine years ago:
 

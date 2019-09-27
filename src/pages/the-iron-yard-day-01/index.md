@@ -23,6 +23,6 @@ My favorite things I learned on Day 01:
 * Digital Color Meter allows me to find any color and replicate it
 * It helps to read all of the directions in the homework…as a former teacher, this should be stock for me!
 
-I did finish [my homework](http://drumsensei.com/warehouse/homework/index.html) and am excited to see what they cook up for us today!
+I did finish my homework and am excited to see what they cook up for us today!
 
 As they say here at the The Iron Yard, To Infinity and Beyond!

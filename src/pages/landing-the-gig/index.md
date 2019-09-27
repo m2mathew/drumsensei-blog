@@ -7,7 +7,7 @@ date: "2016-01-17"
 
 This stuff works! I am now a software engineer and have a job that I love. Let me walk you through my basic timeline and process for making this transition. It is possible with some community support and a can-do attitude!
 
-![desk-of-mike](http://res.cloudinary.com/drumsensei/image/upload/v1515865003/desk-of-mike_vzb8bl.jpg)
+![desk-of-mike](https://res.cloudinary.com/drumsensei/image/upload/v1515865003/desk-of-mike_vzb8bl.jpg)
 
 ##### My desk at Call-Em-All
 
@@ -28,7 +28,7 @@ This stuff works! I am now a software engineer and have a job that I love. Let m
 
 #### Early June 2015
 
-* Phone/Email conversation with a [recent grad](http://www.colorturtle.com/) of the Greenville, SC campus of the code school [The Iron Yard](https://www.theironyard.com/) (TIY). I ask many questions about the process and am rewarded with helpful, frank answers. He lives in the Dallas area and works as a Front End Developer for a local shop. After some research into The Iron Yard, I excitedly discuss this with my wife. She agrees that I could switch careers and make it work.
+* Phone/Email conversation with a recent grad (colorturtle dot com) of the Greenville, SC campus of the code school [The Iron Yard](https://www.bizjournals.com/austin/news/2017/07/20/another-coding-school-falters-the-iron-yard-to.html) (TIY). I ask many questions about the process and am rewarded with helpful, frank answers. He lives in the Dallas area and works as a Front End Developer for a local shop. After some research into The Iron Yard, I excitedly discuss this with my wife. She agrees that I could switch careers and make it work.
 
 ---
 
@@ -38,7 +38,7 @@ This stuff works! I am now a software engineer and have a job that I love. Let m
 
 * Go to meetups to meet people and hear the jargon.
 * Learn more JavaScript beforehand than you think you need.
-  * Suggested book - [Eloquent JavaScript](http://eloquentjavascript.net/index.html)
+  * Suggested book - Eloquent JavaScript (eloquentjavascript dot net)
 * Start a blog and use twitter.
 * Understand that you will be well-suited for a junior developer role upon graduation.
 
@@ -57,7 +57,7 @@ This stuff works! I am now a software engineer and have a job that I love. Let m
 * I dig into the pre-work for my course at TIY. I go through all of the [Codecademy](https://www.codecademy.com/learn) HTML/CSS/JavaScript modules again, taking notes over every section. I learn by writing, so I was putting a lot of code on paper during this time.
 * Each day has time set aside to learn code beforehand to make it as automatic as possible for me.
 * I go to a few meetups and tell my story to people. They are usually fairly astonished that a band director would get into software development. Overall people are supportive and happy to see a new face. Yay meetups!
-* I meet [Chirag](https://twitter.com/ChicagoGupta) at a meetup at his [co-working space](http://www.noddfw.com/) in north Dallas. Turns out he is a drummer, and his first teacher was one of my best friends from high school. We later discover that Chirag and I share a birthday with each other (and Harry Potter).
+* I meet [Chirag](https://twitter.com/ChicagoGupta) at a meetup at his nod co-working space (noddfw dot com) in north Dallas. Turns out he is a drummer, and his first teacher was one of my best friends from high school. We later discover that Chirag and I share a birthday with each other (and Harry Potter).
 
 #### August 2015
 
@@ -76,7 +76,7 @@ This stuff works! I am now a software engineer and have a job that I love. Let m
 
 #### Thursday, November 19
 
-* Found out about a position with [Call-Em-All](https://www.call-em-all.com/) in Frisco, TX from Gautum. I met him through Chirag on Twitter (later in person at a meetup). He pointed me to a great site called [LaunchDFW.com](http://launchdfw.com/), which I had been watching every day, but somehow missed this position!
+* Found out about a position with [Call-Em-All](https://www.call-em-all.com/) in Frisco, TX from Gautum. I met him through Chirag on Twitter (later in person at a meetup). He pointed me to a great site called LaunchDFW (launchdfw dot com), which I had been watching every day, but somehow missed this position!
 * The company makes it easy to send out automated phone calls and text messages as a broadcast. [Go try it for free!](https://www.call-em-all.com/freetrial) You might find it useful!
 
 #### Tuesday, November 24

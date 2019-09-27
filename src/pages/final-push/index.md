@@ -7,7 +7,7 @@ date: "2015-11-10"
 
 Our cohort at The Iron Yard-Austin started in late August on the same day that all public schools in Texas have the first day of school. For the previous two and a half months I had been preparing to head in a different direction. It had been over 15 years since I had seriously set out to study code. The last time I had formally been trained on the finer aspects of programming was in the 12th grade in the mid-1990s. Needless to say, I was a tiny bit rusty.
 
-![running-figures](http://res.cloudinary.com/drumsensei/image/upload/v1515823190/fitness_app_logo_design_crxkuk.png)
+![running-figures](https://res.cloudinary.com/drumsensei/image/upload/v1515823190/fitness_app_logo_design_crxkuk.png)
 
 ##### Humbly borrowed from [Ramotion on dribbble](https://dribbble.com/shots/2825763-Fitness-App-Logo)
 
