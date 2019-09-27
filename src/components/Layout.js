@@ -1,13 +1,13 @@
 // External Dependencies
 import React from 'react'
-// import get from 'lodash/get'
 import {
   Link,
 } from 'gatsby'
 
 // Internal Dependencies
+import './index.css';
 import Footer from './Footer';
-import DsLogo from '../assets/ds-logo.svg';
+import DsLogo from '../assets/ds-logo-js.svg';
 import { rhythm, scale } from '../utils/typography'
 
 // Local Variables
@@ -19,11 +19,10 @@ const Layout = (props) => {
     children,
     description,
     location,
-    // title,
   } = props
 
   const rootPath = `${__PATH_PREFIX__}/`
-  let header
+  let header;
 
   if (location.pathname === rootPath) {
     header = (
@@ -97,15 +96,14 @@ const Layout = (props) => {
               to="/"
               style={{
                 boxShadow: 'none',
-                textDecoration: 'none',
                 color: 'inherit',
+                textDecoration: 'none',
               }}
             >
               <DsLogo
                 svgStyles={{
-                  transform: 'translateY(10px)',
                   height: 48,
-                  width: 'auto',
+                  transform: 'translateY(10px)',
                 }}
               />
             </Link>
@@ -115,8 +113,8 @@ const Layout = (props) => {
               to="/about"
               style={{
                 boxShadow: 'none',
-                textDecoration: 'none',
                 color: 'inherit',
+                textDecoration: 'none',
               }}
             >
               About
