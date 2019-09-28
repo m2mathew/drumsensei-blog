@@ -5,11 +5,11 @@ date: "2015-08-28"
 
 ## SASS part 2
 
-Something learned very early in development or programming is the beautiful phrase "Don't Repeat Yourself" - usually referred to as DRY. Learning about Sass at [The Iron Yard](http://www.theironyard.com), on my own a bit, and at a local Austin meet-up was a great way to work it in to my homework project. The group ATXSass had the great speakers [Abby Larner](http://abbylarner.com/) and [Una Kravets](http://unakravets.com/about.html). This was a fun presentation about the basics of the tool. Also, having gone to this meetup in ATX and several meetups in the my hometown of Dallas (woot!), I can easily say that the tech scene thrives on getting together. There is something magical about finally meeting the people that dance across your Twitter account as pixels... They are really real people, turns out!
+Something learned very early in development or programming is the beautiful phrase "Don't Repeat Yourself" - usually referred to as DRY. Learning about Sass at The Iron Yard, on my own a bit, and at a local Austin meet-up was a great way to work it in to my homework project. The group ATXSass had the great speakers [Abby Larner](https://abbylarner.myportfolio.com/) and [Una Kravets](https://una.im/about/). This was a fun presentation about the basics of the tool. Also, having gone to this meetup in ATX and several meetups in the my hometown of Dallas (woot!), I can easily say that the tech scene thrives on getting together. There is something magical about finally meeting the people that dance across your Twitter account as pixels... They are really real people, turns out!
 
 Some more thoughts about Sass, the beneficial CSS pre-compiler follow the nice sassy picture.
 
-![doctor-who-wearing-a-bow-tie](http://res.cloudinary.com/drumsensei/image/upload/v1514954685/2015-08-28_1_zcxmaf.jpg)
+![doctor-who-wearing-a-bow-tie](https://res.cloudinary.com/drumsensei/image/upload/v1514954685/2015-08-28_1_zcxmaf.jpg)
 
 ## Mixins
 

@@ -7,11 +7,11 @@ date: "2015-09-16"
 
 We have driven deeper into this world of JavaScript and jQuery. Today we talked about review from last night's login page homework. I did not have time to get it fully implemented because I went to a meetup and watched some blazing React.js happening. I _mostly_ understood it, but today Aaron showed us some things that made a lot more sense.
 
-![ajax-logo-original](http://res.cloudinary.com/drumsensei/image/upload/v1515509292/ajax-logo-original_okjlpo.png)
+![ajax-logo-original](https://res.cloudinary.com/drumsensei/image/upload/v1515509292/ajax-logo-original_okjlpo.png)
 
 We learned how to interact with a server using AJAX. Not the cleaner bleachy stuff, heavens no! Of course I mean Asynchronous Javascript And Xml. Everyone knows that!
 
-![ron-burgundy-immediately-regrets-this-decision](http://res.cloudinary.com/drumsensei/image/upload/v1515509294/ajax-logo-async_tgqgvo.jpg)
+![ron-burgundy-immediately-regrets-this-decision](https://res.cloudinary.com/drumsensei/image/upload/v1515509294/ajax-logo-async_tgqgvo.jpg)
 
 This allows us to give information to the server, remove information, or update information. (A slew of other things are also available, but this is plenty for now.) Now, you might be saying, "Hold on, Tex. What is a server? You talking about my waiter at Chili's?"
 

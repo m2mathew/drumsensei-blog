@@ -7,7 +7,7 @@ Some random thoughts while watching the live cast of the 2016 Texas State Marchi
 
 Before I comment on bands…there appears to be some kind of valve machine in the bottom view of the live cast camera. Is the Alamodome all steampunk now?
 
-![steampunk-camera](http://res.cloudinary.com/drumsensei/image/upload/v1516024267/steampunk_camera_lntqri.jpg)
+![steampunk-camera](https://res.cloudinary.com/drumsensei/image/upload/v1516024267/steampunk_camera_lntqri.jpg)
 
 ##### Humbly borrowed from [Mike on dribbble](https://dribbble.com/shots/105535-Steampunk-camera)
 
@@ -97,4 +97,4 @@ I had the great chance to work with this group for two weeks this past summer. T
 
 After this I have the State Marching Contest on, but, let's be honest, it's Election Day. I am looking at the NY Times and The Guardian websites way too much to pay too much attention to the bands!
 
-Congrats to all performers. It is a blast to make an appearance at the Texas SMC for any group! [Go check out the results here](http://utdirect.utexas.edu/uilsmbc/lbw2_sched_results.WBX) and try to figure out the scoring system, too. 🤔
+Congrats to all performers. It is a blast to make an appearance at the Texas SMC for any group! Go search for the results online and try to figure out the scoring system, too. 🤔

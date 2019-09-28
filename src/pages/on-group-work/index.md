@@ -7,7 +7,7 @@ date: "2015-10-19"
 
 Week 8 at The Iron Yard found our Front-End Engineering class heading into a group project. No big deal, we should all know how to work together. I mean, we are all adults and have gotten through high school and other jobs and stuff. Oh, yeah...there are 16 people in our class. This could quickly have been a formidable challenge unless we were careful about how to divide the planning and workload.
 
-![the-iron-yard-areas-of-study](http://res.cloudinary.com/drumsensei/image/upload/v1515808787/the-iron-yard_areas-of-study_rd0wdu.png)
+![the-iron-yard-areas-of-study](https://res.cloudinary.com/drumsensei/image/upload/v1515808787/the-iron-yard_areas-of-study_rd0wdu.png)
 
 ##### The Iron Yard areas of study
 
@@ -29,7 +29,7 @@ Thursday afternoon we hosted the design class as they reviewed our design. As we
 
 We had a surprisingly low number of git issues. I really think that our class is doing a great job with using git and GitHub for version control. We ended up with 829 commits on 53 branches. The 192 pull requests all went pretty well with most people putting up code that really was ready to merge into the master branch.
 
-![group-project-github-branches-layout](http://res.cloudinary.com/drumsensei/image/upload/v1515808789/branches-hackathon_tshxdy.png)
+![group-project-github-branches-layout](https://res.cloudinary.com/drumsensei/image/upload/v1515808789/branches-hackathon_tshxdy.png)
 
 ##### A small snippet of how many branches our group had going at once.
 
@@ -39,7 +39,7 @@ This project put teamwork into focus for me. We didn't really assign a leader ot
 
 I think our project ended up fairly well-styled. All aspects of the desired functions were implemented very well. The user should be satisfied. Aaron is going to use our project with the next cohort to make quizzes and have the class take them. We will get real-world feedback on our project in two or three months!
 
-Check out the live site and poke around for a while: [tiy-austin-front-end-engineering.github.io/](http://tiy-austin-front-end-engineering.github.io/)
+Check out the live site and poke around for a while: [tiy-austin-front-end-engineering.github.io/](https://tiy-austin-front-end-engineering.github.io/)
 
 Ciao!
 

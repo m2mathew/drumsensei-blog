@@ -15,7 +15,7 @@ date: "2015-10-16"
 
 These are all phrases that our patient teacher Aaron has doled out repeatedly in class and one-on-ones. I will go ask for a hint on a problem that is blocking me, and these phrases (or ones like them) appear. This post is partially so I will ask myself those questions later on when an experienced programmer is not sitting 10 feet away. It is also to remind myself that problem solving from one discipline to another is similar. I should not have to re-learn everything about problem solving.
 
-![music-by-programmers](http://res.cloudinary.com/drumsensei/image/upload/v1515698157/cd_cover_300px_oft6sp.jpg)
+![music-by-programmers](https://res.cloudinary.com/drumsensei/image/upload/v1515698157/cd_cover_300px_oft6sp.jpg)
 
 ##### Image created by reddit.com user Charlie
 
@@ -27,7 +27,7 @@ The deeper issues are found in the complexity of programming. I would liken this
 
 I recall learning the beginning of the famous song "Merlin" by Andrew Thomas. It is a solo marimba piece written in the 1980s which is very complicated and amazing to behold. Even looking at the music is daunting. This little snippet is merely the beginning of the second movement.
 
-![sheet-music-to-merlin-by-andrew-thomas](http://res.cloudinary.com/drumsensei/image/upload/v1515698159/merlin_med_ojvnyn.jpg)
+![sheet-music-to-merlin-by-andrew-thomas](https://res.cloudinary.com/drumsensei/image/upload/v1515698159/merlin_med_ojvnyn.jpg)
 
 ##### Image created by reddit.com user Charlie
 

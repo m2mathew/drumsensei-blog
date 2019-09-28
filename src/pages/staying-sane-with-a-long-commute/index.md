@@ -9,9 +9,9 @@ Before I get too far in, please understand how Dallas works. Everyone drives bec
 
 That being said, I have a little help to offer on how to stay sane while driving 60+ minutes twice a day. Two words: Podcasts & Music.
 
-![podcasts-and-music](http://res.cloudinary.com/drumsensei/image/upload/v1515993748/podcasts_and_music_iahu7i.png)
+![podcasts-and-music](https://res.cloudinary.com/drumsensei/image/upload/v1515993748/podcasts_and_music_iahu7i.png)
 
-I started listening to podcasts long ago when I was learning about the "Getting Things Done" methodology (© 2016 David Allen, Co.). As I searched for more details about getting my mental [crazy walls](http://crazywalls.tumblr.com/) more organized, I stumbled upon the venerable [Merlin Mann](http://www.merlinmann.com/) and his internet web site [43Folders](http://www.43folders.com/). I immediately liked his writing style and checked back in from time to time. I started listening to his popular podcast with Dan Benjamin called "Back to Work" on the 5by5 network right as they started. I was an early adopter to this thought technology, especially for someone living in the 'burbs in Dallas. And yes, it is ironic to listen to 90+ minutes episodes of a podcast that is nominally about getting "back to work"…that is part of the beauty of it all!
+I started listening to podcasts long ago when I was learning about the "Getting Things Done" methodology (© 2016 David Allen, Co.). As I searched for more details about getting my mental [crazy walls](https://crazywalls.tumblr.com/) more organized, I stumbled upon the venerable Merlin Mann and his internet web site 43Folders. You should look them both up, for realsies. I immediately liked his writing style and checked back in from time to time. I started listening to his popular podcast with Dan Benjamin called "Back to Work" on the 5by5 network right as they started. I was an early adopter to this thought technology, especially for someone living in the 'burbs in Dallas. And yes, it is ironic to listen to 90+ minutes episodes of a podcast that is nominally about getting "back to work"…that is part of the beauty of it all!
 
 I was hooked on this medium. I tried a few pod-catchers (these technologists come up with great words!) over the last few years. I settled on the [Overcast app](https://overcast.fm/) for iOS because it shortened the silences and was rather customizable in a few ways. I always listen at normal speed—I'm not an animal.
 
@@ -21,23 +21,23 @@ Here are some of the podcasts and musics that I have been into recently. Go fort
 
 ### Podcasts
 
-[Back to Work](http://5by5.tv/b2w/)
+Back to Work - 5by5 dot tv slash b2w
 
-[Roderick on the Line](http://www.merlinmann.com/roderick/)
+Roderick on the Line - merlinmann dot com slash roderick
 
-[Road Work](http://5by5.tv/roadwork)
+Road Work - 5by5 dot tv slash roadwork
 
-[Planet Money](http://www.npr.org/sections/money/)
+[Planet Money](https://www.npr.org/sections/money/)
 
-[99% Invisible](http://99percentinvisible.org/)
+[99% Invisible](https://99percentinvisible.org/)
 
-[Shop Talk](http://shoptalkshow.com/)
+[Shop Talk](https://shoptalkshow.com/)
 
 [Front End Five](https://frontendfive.codeschool.com/)
 
-[The Dalrymple Report](http://www.loopinsight.com/thedalrymplereport/)
+[The Dalrymple Report](https://www.loopinsight.com/thedalrymplereport/)
 
-[Radiolab](http://www.radiolab.org/)
+[Radiolab](https://www.wnycstudios.org/podcasts/radiolab)
 
 [HTTP 203](https://developers.google.com/web/shows/http203/)
 
@@ -45,18 +45,18 @@ Here are some of the podcasts and musics that I have been into recently. Go fort
 
 [Robot or Not?](https://www.theincomparable.com/robot/)
 
-[This American Life](http://www.thisamericanlife.org/)
+[This American Life](https://www.thisamericanlife.org/)
 
 ### Musics
 
-[Snarky Puppy](http://www.snarkypuppy.com/) - hard to define, funk music meets jam meets world music
+[Snarky Puppy](https://www.snarkypuppy.com/) - hard to define, funk music meets jam meets world music
 
-[Radiohead](http://www.radiohead.com/deadairspace) - all of it
+Radiohead - radiohead dot com - all of it
 
-[Nerve](http://www.jojomayer.com/) - Jojo Mayer on drums, all electronic music made by acoustic instruments
+Nerve - jojomayer dot com - Jojo Mayer on drums, all electronic music made by acoustic instruments
 
-[Tigran Hamasyan](http://www.tigranhamasyan.com/) - jazz meets the Balkans
+Tigran Hamasyan - tigranhamasyan dot com - jazz meets the Balkans
 
-[Clifford Brown & Max Roach](http://www.amazon.com/Clifford-Brown-Max-Roach/dp/B003UAW9EC?ie=UTF8&keywords=clifford%20brown%20and%20max%20roach&qid=1463661902&ref_=sr_1_2&sr=8-2) - jazz
+[Clifford Brown & Max Roach](https://www.amazon.com/Clifford-Brown-Max-Roach/dp/B003UAW9EC?ie=UTF8&keywords=clifford%20brown%20and%20max%20roach&qid=1463661902&ref_=sr_1_2&sr=8-2) - jazz
 
 [Maria Luisa Harth-Bedoya](https://www.facebook.com/Mar%C3%ADa-Luisa-Harth-Bedoya-Guitarrista-40435491206/) - classical Peruvian guitar

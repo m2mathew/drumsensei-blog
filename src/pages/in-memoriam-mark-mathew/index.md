@@ -19,7 +19,7 @@ The story of how my mom, Elizabeth "Denise" Stephens, and my dad met and became 
 
 My mom was a student at Lloyd V. Berkner High School in Richardson, Texas when the two met. The magic between the two must have been spectacular because they were married on 9/27/1977 when my mom Denise was 16 years old and my dad was almost 21. When I pressed my mom's friend Valerie about how this came to be, Val said that my grand-parents must have acquiesced because they knew that Denise was going to get married to Mark with or without their approval. It was best to keep her close by and let the newlyweds live together with them in the Dallas suburb of Garland. Valerie also said, "Your parents were SO ready to go to CA, to Haight Ashbury, but I know your grandparents wanted her to finish school." My mom and dad were trying so hard to be good hippies!
 
-![mark-and-denise-in-truck](http://res.cloudinary.com/drumsensei/image/upload/v1516597539/mark-and-denise-2_sqkrcu.jpg)
+![mark-and-denise-in-truck](https://res.cloudinary.com/drumsensei/image/upload/v1516597539/mark-and-denise-2_sqkrcu.jpg)
 
 ##### Denise and Mark in their truck
 
@@ -29,47 +29,47 @@ Valerie goes on:
 
 I know that they shared some great times. There are not many photographs from this time period, but the ones I have seen are full of smiles and good cheer. Something happened in Texas, and my dad took me to California to be near his parents in Buena Park. Or maybe they both went to California together. It gets fuzzy. In any case, things seemed to go downhill after they moved with me back to Cali.
 
-![mark-and-denise-with-baby-Michael](http://res.cloudinary.com/drumsensei/image/upload/v1516597661/mark-and-denise-1_mnbf8f.jpg)
+![mark-and-denise-with-baby-Michael](https://res.cloudinary.com/drumsensei/image/upload/v1516597661/mark-and-denise-1_mnbf8f.jpg)
 
 ##### Denise, Mark, and baby Michael
 
 My mom Denise passed away on Christmas Eve 2012 after a life-long struggle with co-dependence and addiction. My parents sure celebrate their Christian holidays in a strange way, eh? Some of the artifacts left behind by my mom included several photographs from her Photography class at Berkner High School and just other general photos. Some of my favorites are included here.
 
-![just-before-the-led-zeppelin-1977-concert-in-Dallas](http://res.cloudinary.com/drumsensei/image/upload/v1516597853/just-before-led-zeppelin-4-1-1977_qa6ixg.jpg)
+![just-before-the-led-zeppelin-1977-concert-in-Dallas](https://res.cloudinary.com/drumsensei/image/upload/v1516597853/just-before-led-zeppelin-4-1-1977_qa6ixg.jpg)
 
 ##### April 1, 1977 in Dallas, TX - Dinner just before the first performance of Led Zeppelin's final North American tour
 
 ##### left to right: Kim, Val, Mark, and Denise
 
-![Mark-with-guitar](http://res.cloudinary.com/drumsensei/image/upload/v1516597986/mark-1_t2n5yt.jpg)
+![Mark-with-guitar](https://res.cloudinary.com/drumsensei/image/upload/v1516597986/mark-1_t2n5yt.jpg)
 
 ##### March 1977 - photo credit: Denise Stephens
 
-![Mark-big-smile](http://res.cloudinary.com/drumsensei/image/upload/v1516598072/mark-3_qxoktp.jpg)
+![Mark-big-smile](https://res.cloudinary.com/drumsensei/image/upload/v1516598072/mark-3_qxoktp.jpg)
 
 ##### February 17, 1977 - photo credit: Denise Stephens
 
-![Mark-playing-guitar-in-garage](http://res.cloudinary.com/drumsensei/image/upload/v1516598127/mark-4_oqvomv.jpg)
+![Mark-playing-guitar-in-garage](https://res.cloudinary.com/drumsensei/image/upload/v1516598127/mark-4_oqvomv.jpg)
 
 ##### February 9, 1977 - photo credit: Denise Stephens
 
-![Mark-in-Denise-room](http://res.cloudinary.com/drumsensei/image/upload/v1516598192/mark-5_okqpxf.jpg)
+![Mark-in-Denise-room](https://res.cloudinary.com/drumsensei/image/upload/v1516598192/mark-5_okqpxf.jpg)
 
 ##### February 7, 1977 - photo credit: Denise Stephens
 
-![Mark-goofy-smile](http://res.cloudinary.com/drumsensei/image/upload/v1516598310/mark-6_efszid.jpg)
+![Mark-goofy-smile](https://res.cloudinary.com/drumsensei/image/upload/v1516598310/mark-6_efszid.jpg)
 
 ##### photo credit: Denise Stephens
 
-![Mark-happy-guitar-smile](http://res.cloudinary.com/drumsensei/image/upload/v1516598374/mark-7_hkaegq.jpg)
+![Mark-happy-guitar-smile](https://res.cloudinary.com/drumsensei/image/upload/v1516598374/mark-7_hkaegq.jpg)
 
 ##### photo credit: Denise Stephens
 
-![Mark-sitting-in-grass](http://res.cloudinary.com/drumsensei/image/upload/v1516598442/mark-8_ts8mnl.jpg)
+![Mark-sitting-in-grass](https://res.cloudinary.com/drumsensei/image/upload/v1516598442/mark-8_ts8mnl.jpg)
 
 ##### March 1977 - photo credit: Denise Stephens
 
-![Mark-standing-with-friend-in-tree](http://res.cloudinary.com/drumsensei/image/upload/v1516598513/mark-9_axkui3.jpg)
+![Mark-standing-with-friend-in-tree](https://res.cloudinary.com/drumsensei/image/upload/v1516598513/mark-9_axkui3.jpg)
 
 ##### photo credit: Denise Stephens
 
@@ -79,4 +79,4 @@ As fun as it is to focus on the past, to consider where we come from, what those
 
 I will let my dad Mark have the last word here. This was the final message he ever sent me in Facebook Messenger, dated January 8, 2017, and I think it really sums everything up nicely, don't you?
 
-![mark-last-message-to-michael](http://res.cloudinary.com/drumsensei/image/upload/v1516598754/mark-mathew-last-message_d9kjwx.png)
+![mark-last-message-to-michael](https://res.cloudinary.com/drumsensei/image/upload/v1516598754/mark-mathew-last-message_d9kjwx.png)

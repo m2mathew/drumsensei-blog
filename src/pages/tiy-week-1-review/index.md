@@ -5,7 +5,7 @@ date: "2015-08-29"
 
 Week 1 is finished! We made it through! We have sixteen Front-Enders in our class, and we have covered a lot of ground during the first week. We have learned how to use HTML, CSS, Sass, git, and the command line. We have made several layouts and reproduced two websites on our own. Very enlightening!
 
-![the-iron-yard-front-end-engineering-logo](http://res.cloudinary.com/drumsensei/image/upload/v1514954685/2015-08-29_1_yez2cu.png)
+![the-iron-yard-front-end-engineering-logo](https://res.cloudinary.com/drumsensei/image/upload/v1514954685/2015-08-29_1_yez2cu.png)
 
 Although I am an optimist and have a good outlook on things most days, there were several "throw my hands up in the air" moments this past week. Why doesn't padding work the correct way on a parent element in CSS?!! However, by and large I can see the bigger picture of really GETTING the material.
 
