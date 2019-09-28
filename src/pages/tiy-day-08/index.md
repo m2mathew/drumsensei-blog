@@ -7,7 +7,7 @@ date: "2015-09-04"
 
 In our quest to learn about loops of all kinds, the task at hand is to create a game of tic-tac-toe (also, called "[Noughts and Crosses](https://en.wikipedia.org/wiki/Tic-tac-toe)" across the pond) built in JavaScript to run in node on the command line.
 
-![noughts-and-crosses](http://res.cloudinary.com/drumsensei/image/upload/v1515472118/noughts-and-crosses_ijhphc.png)
+![noughts-and-crosses](https://res.cloudinary.com/drumsensei/image/upload/v1515472118/noughts-and-crosses_ijhphc.png)
 
 There are some complications to this problem that are not obvious at first. We are making it a two-player game (except for nightmare mode is building an AI to play against). We start off asking for the players' names, and setting the current player to player1. Then the player must enter the coordinates of their move in the format "x y" (yes, with the space). The move is stored in an array that holds three arrays which I am calling gameBoard.
 

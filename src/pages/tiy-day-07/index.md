@@ -1,13 +1,13 @@
 ---
 title: "The Iron Yard - Day 07"
-date: "2015-09-02"
+date: "2015-09-03"
 ---
 
 ## The Matrix
 
 We have learned about arrays and objects. We are now aware of the matrix.
 
-![falling-integers-on-a-shell-screen](http://res.cloudinary.com/drumsensei/image/upload/v1515249171/2015-09-02_2_olhi6l.jpg)
+![falling-integers-on-a-shell-screen](https://res.cloudinary.com/drumsensei/image/upload/v1515249171/2015-09-02_2_olhi6l.jpg)
 
 ### Arrays - overview
 

@@ -9,7 +9,7 @@ Our front end engineering class has brought us to the point where we know enough
 
 From near the beginning, we learned vanilla JavaScript in node in the terminal (or in Sublime Text, if you are fancy). Next we learned how to link the HTML/CSS into the JavaScript to provide functionality to our websites. We then learned some jQuery, a JavaScript library, to quickly target areas of a webpage for interaction. Just as soon as we were getting comfortable with mixing JavaScript and jQuery we discovered that AJAX lets us deal with a server to store information in a place other than the client's computer. This allows us to work arm-in-arm with our back-end brethren and opens us up to the world of [Backbone.js](http://backbonejs.org/).
 
-![backbone-logo-on-a-book](http://res.cloudinary.com/drumsensei/image/upload/v1515646799/backbone_1x_k1nidw.png)
+![backbone-logo-on-a-book](https://res.cloudinary.com/drumsensei/image/upload/v1515646799/backbone_1x_k1nidw.png)
 
 ##### Humbly borrowed from [Kevin Ports on dribbble](https://dribbble.com/shots/1475794-Dribble-47)
 

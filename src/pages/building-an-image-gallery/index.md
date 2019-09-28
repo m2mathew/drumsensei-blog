@@ -11,12 +11,12 @@ So, that is my goal for today and this weekend. If you need me, then I will be u
 
 ### Now time to leave
 
-![austin-texas-logo-from-dribbble](http://res.cloudinary.com/drumsensei/image/upload/v1515646239/austin_1x_aknfys.jpg)
+![austin-texas-logo-from-dribbble](https://res.cloudinary.com/drumsensei/image/upload/v1515646239/austin_1x_aknfys.jpg)
 
 ##### Humbly borrowed from [Steve Wolf on dribbble](https://dribbble.com/shots/2068753-ATX-Badge)
 
 ### And head back home to
 
-![dallas-texas-logo-from-dribbble](http://res.cloudinary.com/drumsensei/image/upload/v1515646241/dallas_dribbble_taemjh.jpg)
+![dallas-texas-logo-from-dribbble](https://res.cloudinary.com/drumsensei/image/upload/v1515646241/dallas_dribbble_taemjh.jpg)
 
 ##### Humbly borrowed from [dribbble](https://dribbble.com/)

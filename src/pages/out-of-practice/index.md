@@ -5,13 +5,13 @@ date: "2016-10-17"
 
 I have noticed a funny thing as of late. In music-making and writing I am out of practice. This is a cautionary tale of awareness and a possible solution to being out of practice.
 
-![on-purpose](http://res.cloudinary.com/drumsensei/image/upload/v1516023791/on-purpose_reai7l.png)
+![on-purpose](https://res.cloudinary.com/drumsensei/image/upload/v1516023791/on-purpose_reai7l.png)
 
 Musicians have long heard the phrase "practice makes perfect." It is a silly phrase. One can practice for a year straight and be extremely excellent at doing something **wrong**. A better phrase is "perfect practice makes perfect." Yes, this is something I have said to hundreds of students over the years.
 
-Malcolm Gladwell in his book [Outliers](http://gladwell.com/outliers/) espoused the "10,000 hour rule." Many people immediately became champions of this. The idea is that the difference between an expert and the rest of the herd is simply putting in the time—ten thousand hours according to Gladwell. Again, this amount of time spent holding your violin incorrectly will still lead to a situation of being super great at holding your violin, but now you are doing it incorrectly.
+Malcolm Gladwell in his book [Outliers](https://www.gladwellbooks.com/titles/malcolm-gladwell/outliers/9780316040341/) espoused the "10,000 hour rule." Many people immediately became champions of this. The idea is that the difference between an expert and the rest of the herd is simply putting in the time—ten thousand hours according to Gladwell. Again, this amount of time spent holding your violin incorrectly will still lead to a situation of being super great at holding your violin, but now you are doing it incorrectly.
 
-A more prudent approach is to make sure one is engaged in deliberate practice as told by this gentleman [Anders Ericsson](http://www.businessinsider.com/anders-ericsson-how-to-become-an-expert-at-anything-2016-6). This "on purpose" approach is key to getting better at one's discipline. This is where having a guiding hand in a teacher or a mentor provides value. Let me revise that statement. This why a teacher or a mentor makes all the difference in the world, especially for someone new to a discipline.
+A more prudent approach is to make sure one is engaged in deliberate practice as told by this gentleman [Anders Ericsson](https://www.businessinsider.com/anders-ericsson-how-to-become-an-expert-at-anything-2016-6). This "on purpose" approach is key to getting better at one's discipline. This is where having a guiding hand in a teacher or a mentor provides value. Let me revise that statement. This why a teacher or a mentor makes all the difference in the world, especially for someone new to a discipline.
 
 "Mike, you are getting heavy. I thought this blog was supposed to be light and fluffy."
 

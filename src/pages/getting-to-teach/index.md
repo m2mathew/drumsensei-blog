@@ -11,7 +11,7 @@ I also knew that my chances to teach music every day would diminish. BUT this ca
 
 The unexpected side effect of not having to teach my own program all of the time meant that I was available for my friends' students for the first time in years. Since I have a job in technology where we have a lot of freedom with our vacation policy (and I do not take advantage of it 😜), I make myself available from time to time to help some friends out in teaching their drum lines.
 
-From the time that I announced that I was ["Switching Gears"](http://www.drumsensei.com//2015/switching-gears) in August 2015, I have been able to teach a handful of times. This has helped me to keep my chops adequately tuned-up and my teaching skills honed. Not to mention, the students at these groups were a blast to be around every day! Since I have been out of the game, here are some of the groups that I have seen since I "quit" teaching. (I cannot help but smile that I "quit" teaching…I definitely didn't quit, I just don't do it every day any more! 🤓)
+From the time that I announced that I was ["Switching Gears"](https://www.drumsensei.com/switching-gears/) in August 2015, I have been able to teach a handful of times. This has helped me to keep my chops adequately tuned-up and my teaching skills honed. Not to mention, the students at these groups were a blast to be around every day! Since I have been out of the game, here are some of the groups that I have seen since I "quit" teaching. (I cannot help but smile that I "quit" teaching…I definitely didn't quit, I just don't do it every day any more! 🤓)
 
 * 1 college drum line - 2 consecutive years
 * 1 Texas State Marching Contest champion drum line - 4 different weeks in two summers

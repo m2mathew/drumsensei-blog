@@ -7,7 +7,7 @@ How do you consume internet websites these days? Is it through a web browser or 
 
 As part of my gig at [Call-Em-All](https://www.call-em-all.com), I have been working with different web browsers to get everything working for all the peoples. Sadly, they differ vastly in terms of both a normal user experience and a developer experience. I have not used them all extensively, but I have thoughts on most of them.
 
-![gob-bluth-doesn't-have-chrome](http://res.cloudinary.com/drumsensei/image/upload/v1516596155/dont-have-chrome_zssmeg.png)
+![gob-bluth-doesn't-have-chrome](https://res.cloudinary.com/drumsensei/image/upload/v1516596155/dont-have-chrome_zssmeg.png)
 
 ##### This may or may not have been my first draft at a browser notification
 
@@ -27,9 +27,9 @@ Edge is the replacement browser for IE. From the little I have used it, I wasn't
 
 ## Can I Use?
 
-![can-i-use](http://res.cloudinary.com/drumsensei/image/upload/v1516596488/can-i-use_cuhjpc.jpg)
+![can-i-use](https://res.cloudinary.com/drumsensei/image/upload/v1516596488/can-i-use_cuhjpc.jpg)
 
-The "[Can I Use?](http://caniuse.com/usage_table.php)" website has a good chart on approximate browser usage. I know for our small company client usage more or less follows this chart. Thankfully most people are using Chrome…and will have a pretty sweet experience while using a lot of the web.
+The "[Can I Use?](https://caniuse.com/usage_table.php)" website has a good chart on approximate browser usage. I know for our small company client usage more or less follows this chart. Thankfully most people are using Chrome…and will have a pretty sweet experience while using a lot of the web.
 
 Think about it like this: most people are using either Google Chrome or Chrome for Android. It is an overwhelming part of the usage of the entire internet. Also, I have it on good faith that nearly every web developer is building apps with Google Chrome first. I know there are plenty of examples like I mentioned above where a company just uses a certain technology for any variety of reasons (security, control over infrastructure, fear of change, et al), but I imagine most of those people are not using their sorry old browsers for personal use.
 
