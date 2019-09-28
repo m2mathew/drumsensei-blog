@@ -1,6 +1,6 @@
 ---
 title: "The Iron Yard - Day 07"
-date: "2015-09-0"
+date: "2015-09-03"
 ---
 
 ## The Matrix
