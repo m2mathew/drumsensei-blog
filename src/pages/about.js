@@ -41,7 +41,8 @@ const About = (props) => {
             In late 2018 I co-founded{' '}
             <a href="https://www.presto-assistant.com/">Presto Assistant</a>, a
             service to help fine arts teachers organize their logistics and
-            office. This app will help make the lives of fine arts teachers better.
+            office. This app will help make the lives of fine arts teachers
+            better.
           </p>
           <p>
             As a longtime musician and music educator I worked with some
@@ -83,13 +84,12 @@ const About = (props) => {
             project. After a brief rewrite in Jekyll we end up here! Hosting by{' '}
             <a href="https://www.netlify.com/">Netlify</a>. Coding is done in{' '}
             <a href="https://code.visualstudio.com/">Visual Studio Code</a>{' '}
-            (with generous assistance from the dev tools). I use a 15" 2015
-            Retina MacBook Pro with a few meaningful stickers and sometimes a
-            fairly large iMac when coding from the homestead. As a constant
-            learner, I will likely be poking and prodding here and there
-            throughout this space, so it might not always look the same. Also,
-            there is little guarantee that it will appear correctly on older
-            browsers, so{' '}
+            (with generous assistance from the dev tools). I use a 2019 16"
+            MacBook Pro and sometimes a fairly large iMac when coding from the
+            homestead. As a constant learner, I will likely be poking and
+            prodding here and there throughout this space, so it might not
+            always look the same. Also, there is little guarantee that it will
+            appear correctly on older browsers, so{' '}
             <a href="https://browsehappy.com">keep them up to date</a>!
           </p>
         </section>
