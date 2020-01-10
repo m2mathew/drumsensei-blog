@@ -3,11 +3,13 @@ import { useState, useEffect } from 'react'
 
 // Local Functions
 function getSize() {
-  return {
-    innerHeight: window.innerHeight,
-    innerWidth: window.innerWidth,
-    outerHeight: window.outerHeight,
-    outerWidth: window.outerWidth,
+  if (window !== undefined) {
+    return {
+      innerHeight: window.innerHeight,
+      innerWidth: window.innerWidth,
+      outerHeight: window.outerHeight,
+      outerWidth: window.outerWidth,
+    };
   }
 }
 
