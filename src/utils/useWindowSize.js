@@ -3,12 +3,15 @@ import { useState, useEffect } from 'react'
 
 // Local Functions
 function getSize() {
-  return {
-    innerHeight: window.innerHeight,
-    innerWidth: window.innerWidth,
-    outerHeight: window.outerHeight,
-    outerWidth: window.outerWidth,
+  if (typeof window !== 'undefined') {
+    return {
+      innerHeight: window.innerHeight,
+      innerWidth: window.innerWidth,
+      outerHeight: window.outerHeight,
+      outerWidth: window.outerWidth,
+    }
   }
+  return 0;
 }
 
 // Hook Definition
@@ -20,9 +23,11 @@ function useWindowSize() {
   }
 
   useEffect(() => {
-    window.addEventListener('resize', handleResize)
-    return () => {
-      window.removeEventListener('resize', handleResize)
+    if (typeof window !== 'undefined') {
+      window.addEventListener('resize', handleResize)
+      return () => {
+        window.removeEventListener('resize', handleResize)
+      }
     }
   }, [])
 
