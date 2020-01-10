@@ -1,5 +1,5 @@
 // External Dependencies
-import React from 'react'
+import React, { useEffect } from 'react'
 import {
   Link,
 } from 'gatsby'
@@ -24,7 +24,13 @@ const Layout = (props) => {
   } = props;
 
 
-  const isSmallScreen = useWindowSize().innerWidth < SMALL_SCREEN_SIZE;
+  let isSmallScreen;
+
+  useEffect(() => {
+    if (typeof window !== 'undefined') {
+      useWindowSize().innerWidth < SMALL_SCREEN_SIZE;
+    }
+  }, []);
 
   const rootPath = `${__PATH_PREFIX__}/`
   let header;
