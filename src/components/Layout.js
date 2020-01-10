@@ -8,10 +8,12 @@ import {
 import './index.css';
 import Footer from './Footer';
 import DsLogo from '../assets/ds-logo-js.svg';
-import { rhythm, scale } from '../utils/typography'
+import { rhythm, scale } from '../utils/typography';
+import useWindowSize from '../utils/useWindowSize'
 
 // Local Variables
 const PrestoDarkPurple = '#280154';
+const SMALL_SCREEN_SIZE = 500;
 
 // Component Definition
 const Layout = (props) => {
@@ -19,7 +21,10 @@ const Layout = (props) => {
     children,
     description,
     location,
-  } = props
+  } = props;
+
+
+  const isSmallScreen = useWindowSize().innerWidth < SMALL_SCREEN_SIZE;
 
   const rootPath = `${__PATH_PREFIX__}/`
   let header;
@@ -102,7 +107,7 @@ const Layout = (props) => {
             >
               <DsLogo
                 svgStyles={{
-                  height: 48,
+                  height: isSmallScreen ? 32 : 48,
                   transform: 'translateY(10px)',
                 }}
               />
@@ -114,6 +119,7 @@ const Layout = (props) => {
               style={{
                 boxShadow: 'none',
                 color: 'inherit',
+                fontWeight: 600,
                 textDecoration: 'none',
               }}
             >
