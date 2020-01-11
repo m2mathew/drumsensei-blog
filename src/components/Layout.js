@@ -1,141 +1,163 @@
 // External Dependencies
-import React from 'react'
+import React, { Component } from 'react'
 import {
   Link,
 } from 'gatsby'
 
 // Internal Dependencies
 import './index.css';
-import Footer from './Footer';
 import DsLogo from '../assets/ds-logo-js.svg';
-import { rhythm, scale } from '../utils/typography'
+import Footer from './Footer';
+import { rhythm, scale } from '../utils/typography';
 
 // Local Variables
 const PrestoDarkPurple = '#280154';
+const SMALL_SCREEN_SIZE = 500;
 
 // Component Definition
-const Layout = (props) => {
-  const {
-    children,
-    description,
-    location,
-  } = props
+class Layout extends Component {
+  constructor(props) {
+    super(props);
 
-  const rootPath = `${__PATH_PREFIX__}/`
-  let header;
+    this.state = {
+      isSmallScreen: false,
+    }
+  }
 
-  if (location.pathname === rootPath) {
-    header = (
-      <h1
-        style={{
-          color: 'rebeccapurple',
-          ...scale(1.2),
-          marginBottom: rhythm(1.5),
-          marginTop: 64,
-        }}
-      >
-        <div
+  componentDidMount() {
+    if (typeof window !== 'undefined') {
+      this.setState({
+        isSmallScreen: window.innerWidth < SMALL_SCREEN_SIZE,
+      })
+    }
+  }
+
+  render() {
+    const {
+      children,
+      description,
+      location,
+    } = this.props;
+
+    const { isSmallScreen } = this.state;
+
+    const rootPath = `${__PATH_PREFIX__}/`
+    let header;
+
+    if (location.pathname === rootPath) {
+      header = (
+        <h1
           style={{
-            boxShadow: 'none',
-            textDecoration: 'none',
-            color: 'inherit',
+            color: 'rebeccapurple',
+            ...scale(1.2),
+            marginBottom: rhythm(1.5),
+            marginTop: 64,
           }}
         >
-          {description}
-        </div>
-      </h1>
-    )
-  } else {
-    header = (
-      <h3
-        style={{
-          color: 'rebeccapurple',
-          fontFamily: 'Montserrat, sans-serif',
-          marginTop: 64,
-          marginBottom: rhythm(-1),
-        }}
-      >
-        <div
+          <div
+            style={{
+              boxShadow: 'none',
+              textDecoration: 'none',
+              color: 'inherit',
+            }}
+          >
+            {description}
+          </div>
+        </h1>
+      )
+    } else {
+      header = (
+        <h3
           style={{
-            boxShadow: 'none',
-            textDecoration: 'none',
-            color: 'inherit',
+            color: 'rebeccapurple',
+            fontFamily: 'Montserrat, sans-serif',
+            marginTop: 64,
+            marginBottom: rhythm(-1),
           }}
         >
-          {description}
-        </div>
-      </h3>
+          <div
+            style={{
+              boxShadow: 'none',
+              textDecoration: 'none',
+              color: 'inherit',
+            }}
+          >
+            {description}
+          </div>
+        </h3>
+      )
+    }
+    return (
+      <div>
+        <nav
+          style={{
+            background: 'lavenderblush',
+            borderBottom: `4px solid ${PrestoDarkPurple}`,
+            boxShadow: `3px 0 5px ${PrestoDarkPurple}`,
+            display: 'flex',
+            alignItems: 'center',
+            height: 64,
+            padding: '12px 32px',
+            position: 'fixed',
+            width: '100%',
+            zIndex: 1000,
+          }}
+        >
+          <div
+            style={{
+              alignItems: 'center',
+              display: 'flex',
+              justifyContent: 'space-between',
+              width: '100%',
+            }}
+          >
+            <div>
+              <Link
+                to="/"
+                style={{
+                  boxShadow: 'none',
+                  color: 'inherit',
+                  textDecoration: 'none',
+                }}
+              >
+                <DsLogo
+                  svgStyles={{
+                    height: isSmallScreen ? 32 : 48,
+                    transform: 'translateY(10px)',
+                  }}
+                />
+              </Link>
+            </div>
+            <div>
+              <Link
+                to="/about"
+                style={{
+                  boxShadow: 'none',
+                  color: 'inherit',
+                  fontWeight: 600,
+                  textDecoration: 'none',
+                }}
+              >
+                About
+              </Link>
+            </div>
+          </div>
+        </nav>
+        <main
+          style={{
+            marginLeft: 'auto',
+            marginRight: 'auto',
+            maxWidth: rhythm(25),
+            padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
+          }}
+        >
+          {header}
+          {children}
+        </main>
+        <Footer />
+      </div>
     )
   }
-  return (
-    <div>
-      <nav
-        style={{
-          background: 'lavenderblush',
-          borderBottom: `4px solid ${PrestoDarkPurple}`,
-          boxShadow: `3px 0 5px ${PrestoDarkPurple}`,
-          display: 'flex',
-          alignItems: 'center',
-          height: 64,
-          padding: '12px 32px',
-          position: 'fixed',
-          width: '100%',
-          zIndex: 1000,
-        }}
-      >
-        <div
-          style={{
-            alignItems: 'center',
-            display: 'flex',
-            justifyContent: 'space-between',
-            width: '100%',
-          }}
-        >
-          <div>
-            <Link
-              to="/"
-              style={{
-                boxShadow: 'none',
-                color: 'inherit',
-                textDecoration: 'none',
-              }}
-            >
-              <DsLogo
-                svgStyles={{
-                  height: 48,
-                  transform: 'translateY(10px)',
-                }}
-              />
-            </Link>
-          </div>
-          <div>
-            <Link
-              to="/about"
-              style={{
-                boxShadow: 'none',
-                color: 'inherit',
-                textDecoration: 'none',
-              }}
-            >
-              About
-            </Link>
-          </div>
-        </div>
-      </nav>
-      <main
-        style={{
-          marginLeft: 'auto',
-          marginRight: 'auto',
-          maxWidth: rhythm(25),
-          padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
-        }}
-      >
-        {header}
-        {children}
-      </main>
-      <Footer />
-    </div>
-  )
-};
+}
 
 export default Layout
