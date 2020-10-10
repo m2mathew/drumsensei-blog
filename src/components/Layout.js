@@ -130,6 +130,18 @@ class Layout extends Component {
             </div>
             <div>
               <Link
+                to="/"
+                style={{
+                  boxShadow: 'none',
+                  color: 'inherit',
+                  fontWeight: 600,
+                  marginRight: 24,
+                  textDecoration: 'none',
+                }}
+              >
+                Blog
+              </Link>
+              <Link
                 to="/about"
                 style={{
                   boxShadow: 'none',

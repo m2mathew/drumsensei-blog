@@ -27,8 +27,7 @@ const About = (props) => {
             based out of the Dallas/Fort Worth area. I like to make pretty
             things that help people. Since December 2015 I have worked as a
             software engineer at{' '}
-            <a href="https://www.call-em-all.com/">Call-Em-All</a> in Frisco,
-            TX. I also help organize the{' '}
+            <a href="https://www.text-em-all.com/">Text-Em-All</a> in Frisco, TX (formerly named Call-Em-All). I also help organize the{' '}
             <a href="https://www.meetup.com/ReactJS-Dallas/">
               ReactJS Dallas software meetup
             </a>
@@ -41,8 +40,8 @@ const About = (props) => {
             In late 2018 I co-founded{' '}
             <a href="https://www.presto-assistant.com/">Presto Assistant</a>, a
             service to help fine arts teachers organize their logistics and
-            office. This app will help make the lives of fine arts teachers
-            better.
+            office. This app makes the lives of fine arts teachers
+            better by helping them get and stay organized.
           </p>
           <p>
             As a longtime musician and music educator I worked with some
@@ -58,7 +57,7 @@ const About = (props) => {
           </p>
           <p>
             My most important work: husband to my lovely wife, father to my
-            three wonderful children, and guardian for my little brother. I
+            three wonderful children, and big brother to many half-siblings. I
             enjoy any good music, Apple computers and products, and the Oxford
             comma. By night I stay up learning everything that I don't yet know,
             or I'm reading about how I should be sleeping more. My family and
@@ -75,6 +74,9 @@ const About = (props) => {
         </section>
         <section>
           <h3>Colophon</h3>
+          <p>
+            <a href="/uses">Uses</a> - links to many of the things I use
+          </p>
           <p>
             This site is built with <a href="">GatsbyJS</a> which means most
             content was written using{' '}
@@ -96,7 +98,7 @@ const About = (props) => {
         <section>
           <h3>Why Drumsensei?</h3>
           <p>
-            When I taught at Trinity High School I referred to the performers in
+            When I taught at Trinity High School in Euless, TX, I referred to the performers in
             the cymbal line as the "cymbal ninjas". They were an all-female,
             extremely intelligent, no-nonsense group of people. All of the
             extraordinary moves and sounds they made were superbly
@@ -105,6 +107,7 @@ const About = (props) => {
             "sensei." So, drumsensei seemed appropriate.
           </p>
         </section>
+        <hr />
         <Link to="/">Go dig through some posts</Link>
       </div>
     </Layout>
