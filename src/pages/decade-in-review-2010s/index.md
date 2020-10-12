@@ -16,9 +16,11 @@ Melissa and I celebrate our 10-year wedding anniversary! We started dating back 
 
 Our family also got a little puppy that we named Chewbacca and call "Chewie". I was pretty ambivalent towards him, but Chewie eventually won me over. He is hyper-intelligent, well-behaved, and a faithful companion to all in our family.
 
+![Isaac and Alexis hugging in June 2010](./2010-June--Isaac-Alexis.JPG)
+
 ### Learning Experience
 
-My long-standing sore knee got a lot worse in 2010. I had bursitis way back in 1996 when I performed with the Troopers quad line. I think that minor injury only got worse in my knee over time. After Troopers I still had four years of college marching band and another summer of drum corps coming up. Looking at my knee, one could easily see a  golf ball-sized cyst. Also, the cartilage in the right knee was torn and needed repair. The surgery was technically called "derangement of the right lateral meniscus" – my right knee was deranged! I had been doing P90X workouts with the NM band on the blacktop parking lot and at home some. Lots of high impact workouts. I am not good at "giving in", always pushing through hard times. But on this occasion, I should have listened to my body and gone to the doctor much earlier than I did. I ended up missing school for a week and had to be on crutches for a while during recovery. Physical therapy was incredibly painful, too.
+My long-standing sore knee got a lot worse in 2010. I had bursitis way back in 1996 when I performed with the Troopers quad line. I think that minor injury only got worse in my knee over time. After Troopers I still had five years of college marching band and another summer of drum corps coming up. Looking at my knee, one could easily see a  golf ball-sized cyst. Also, the cartilage in the right knee was torn and needed repair. The surgery was technically called "derangement of the right lateral meniscus" – my right knee was deranged! I had been doing P90X workouts with the NM band on the blacktop parking lot and at home some. Lots of high impact workouts. I am not good at "giving in", always pushing through hard times. But on this occasion, I should have listened to my body and gone to the doctor much earlier than I did. I ended up missing school for a week and had to be on crutches for a while during recovery. Physical therapy was incredibly painful, too.
 
 I also had the flu over Christmas in 2010. With Melissa and I both being teachers, and Isaac, Alexis, and Stephen all in school, it could have come from anywhere. Now, I always get a flu shot! I was also getting fairly overweight during this year. Weight fluctuates for me a bit, but I was noticeably sluggish and not feeling great. The knee surgery also led to more inactivity than I prefer.
 
@@ -29,9 +31,14 @@ I also had the flu over Christmas in 2010. With Melissa and I both being teacher
 
 Early in the year Andy Eldridge asked me to be the best man in his wedding to Jennifer. I looked in the mirror, and I felt and looked unhealthy. I started making some changes with regards to eating less sugar and bread and being more active. I ended up getting fairly healthy by the time of the ceremony. Isaac and Alexis got to be in the wedding, too. And the Dallas Mavericks won the NBA Championship during their wedding reception. It was a GREAT DAY!
 
+![Isaac and Alexis with me at the Eldridge/Fast wedding in June 2011](./2011-June--Daddy-Isaax-Alexis-wedding.JPG)
+
 Also of note:
 - Both Isaac and Alexis had their tonsils and adenoids removed on St. Patrick's Day. Lots of ice cream and much less strep in our house!
 - Family vacation (plus Melissa's parents) to San Antonio to Sea World.
+- My little brother Stephen turned 13 and our mom came over for a rare visit, one of our last times to visit with her.
+
+![Stephen and Denise Mathew on Stephen's 13th birthday in October 2011](./2011-October--Denise-Stephen-birthday.JPG)
 
 ### Learning Experience
 
@@ -41,7 +48,11 @@ Later in the year, Melissa was having a lot of pain and was rushed to Baylor Hos
 
 ### Positive Experience
 
-In June I was in the middle of teaching the drum line camp at North Mesquite High School. Melissa called and said we are going to the hospital. I left my students in the capable hands of our million-dollar staff, and went to be with my lady. The next day on Thursday morning at about 6:30am Olivia Rose was born, and our family was complete!
+In June I was in the middle of teaching the drum line camp at North Mesquite High School. Melissa called and said, "We are going to the hospital!" I left my students in the capable hands of our million-dollar percussion staff, and went to be with my lady. The next day on Thursday morning about 6:30am Olivia Rose was born. Our family was complete!
+
+I also had a great time hanging out with some of my best friends from high school. One Christopher Vigneron was finally visiting in the US again from his new home in the Czech Republic, so we convened our small group of friends for a meal and some drinks. Good times were had by all.
+
+![High school friend reunion in December 2012](./2012-High-school-friend-reunion.JPG)
 
 
 ### Learning Experience
@@ -53,8 +64,13 @@ My mom Elizabeth Denise Mathew got very sick, went on life support, and we had t
 
 ### Positive Experience
 
-I finished my fifth year at North Mesquite. Excellent culture. Students improving and a solid structure for the program. I also got a call that the Berkner High School percussion job was opening. I applied for Berkner, and I got the job. This meant a lot to me because my mom and her brothers went to Berkner. I also went to a feeder elementary school and junior high school for Berkner before my family moved to the nearby suburb of Rowlett way back in 1991. Back in 2002 I completed my student teaching at Berkner in the middle of my teaching the drum line and percussion lessons for two years at Berkner. The Berkner program has always meant a lot to me, and it still does!
+I finished my fifth year at North Mesquite. Excellent culture. Students improving and a solid structure for the program. I also got a call that the Berkner High School percussion job was opening. I applied for Berkner, and I got the job. This meant a lot to me because my mom and her brothers went to Berkner. I also went to a feeder elementary school and junior high school for Berkner before my family moved to the nearby suburb of Rowlett way back in 1991. In 2002 I completed my student teaching at Berkner in the middle of my teaching the drum line and percussion lessons for two years at Berkner. The Berkner program has always meant a lot to me, and it still does!
 
+![The Snare line from Berkner High School in November 2013](./2013-Berkner-snare-line.JPG)
+
+During this year our family was also experiencing the fun times of having a little baby to care for. Our older children Isaac and Alexis were huge help to us!
+
+![Family saying Congratulations to Stephen at Area Marching Contest in November 2013](./2013-Congrats-to-Stephen-at-Area.png)
 
 ### Learning Experience
 
@@ -71,12 +87,13 @@ The main decision to pursue this was made so I could be home more. I expected th
 
 Melissa also started graduate school to become a school librarian, and Isaac started band playing French horn.
 
-
 ### Learning Experience
 
 The cavaet was that I was miserable at Forney High School. The previous school year at Berkner I was surrounded by a like-minded team, all rowing our boat in the same direction, positive experiences for students, accountability to a high standard while being respectful. Forney was as opposite as one could be. For many reasons, I decided early in the year that I was in the wrong place. I prayed that God would bring me through the school year and into some other path for the following year and to show me how to navigate the current situation to find out how I could use my influence for the greatest good.
 
 I hold fast to the idea that chasing trophies and focusing on "winning" is a completely flawed philosophy. Unfortunately, the "we must win" approach was prevalent at Forney High School during that time. I have always focused on being the best "me" today. Show up prepared, have a great attitude, and work hard. This has served me well in life time and again. I hope that some of my Forney High School students got a glimmer of that from me. And, as should always be expected, every school year is different with different students and staff, so that band program is likely much _much_ different now.
+
+![Michael having a pensive moment in June 2014](./2014-pensive-michael-square.jpg)
 
 # 2015
 
@@ -96,11 +113,13 @@ For The Iron Yard, the classes were fun and challenging, and the assignments wer
 
 When I got out The Iron Yard, my "job" was to find a job as soon as I could. For five weeks I searched for a gig where I knew I would thrive, a small team with a good culture who knew a lot about themselves. My days were spent between learning more about coding and searching all over for gigs. I would alternate between the Mesquite public library and Starbucks for my "work" place. After about three weeks of searching, I came across a job posting for a position at <a href="https://www.text-em-all.com/">Call-Em-All</a> in Frisco. This company had their [manifesto on the website](https://www.call-em-all.com/call-em-all-difference), and I immediately felt like this company had some legs for exactly what I wanted in a team. I ended up getting an interview. I met the team, and hit it off with them from the start. The VP of engineering called me about 20 minutes after my interview to offer me a position at $5k more than was making as a band director. The benefits cost less, so that saved our family more than $10k/year. And, my very first day of work on 12/21/2015, the company rented out a movie theater so we could all watch "Star Wars: The Force Awakens" together. It was a true blessing to land this job with Call-Em-All!
 
+![Michael walking into Day 1 at The Iron Yard in Austin, TX in August 2015](./2015-08-23_the-iron-yard-day-1.jpg)
+
 ### Learning Experience
 
 I learned _a ton_ this year. Mostly I learned that a band director can pretty much do anything. That "education" role touches so many different skills, what the workplace calls "soft skills" – public speaking to large groups, organization skills, being on time to things, problem-solving, managing personnel, dealing with finances...the list goes on and on. I remain convinced that band directors can do it all!
 
-One day in January I came home from Forney HS to eat lunch, and our Pomeranian Ewok had died that day. He was our "old man", living to be about 15 years old. Ewok had so much personality, much of it mischievous. This was a sad time for us, but we were glad for all the fun memories with our little friend dating back to the time before Melissa and I were married.
+One day in January I came home from Forney HS to eat lunch, and our Pomeranian Ewok had died that day. He was our "old man", living to be about 15 1/2 years old. Ewok had so much personality, much of it mischievous. This was a sad time for us, but we were glad for all the fun memories with our little friend dating back to the time before Melissa and I were married.
 
 
 # 2016
@@ -148,7 +167,7 @@ As ever, if your parents are still here on earth, then you should make sure to c
 
 ### Positive Experience
 
-Bought a house that fits everyone really well. It's only a few minutes from the apartment where we lived when Isaac was born in 2002. The location means all work and most family are less than 30 minutes away, and we live exactly one mile from my uncle Ricky and aunt Teri.
+We bought a new house that fits everyone really well. It's only a few minutes from the apartment where we lived when Isaac was born in 2002. The location means all work and most family are less than 30 minutes away, and we live exactly one mile from my uncle Ricky and aunt Teri.
 
 My friend [Austin Chappell](https://www.linkedin.com/in/austin-chappell-2348145a/) and I started planning and building [Presto Assistant](https://www.presto-assistant.com/), an app to help fine arts teachers get and stay organized. Each of us had friends reach out and asked us to build something like Presto that would replace their old and unreliable existing tools. Austin and I had both done a good deal of software work by this point, even some projects for people outside of the companies where we worked. We agreed to get started on a project that would meet the needs of our music education friends.
 
@@ -162,7 +181,7 @@ Our family took a vacation to Galveston for several days, our first in several y
 
 Presto Assistant proved to be a project that Austin and I both love to work on. But, like any project that pursues excellence, it takes a long time. We made significant progress on all parts of the app, and we divided the labor in a way that made us work faster and smarter. We can see it being our full-time job one day. Presto is going to help a _lot_ of people.
 
-In December our two oldest children Isaac and Alexis were in the Berkner Symphonic I band. That group performed an hour-long concert at the Midwest Band and Orchestra Convention in Chicago. Melissa, Olivia, and I traveled to Chicago to watch their performance. The band was amazing! Also, Chicago is a great city, but December is _very_ cold there!
+Our two oldest children Isaac and Alexis were in the Berkner Symphonic Band 1, the top performing wind ensemble at the school. In December the Symphonic Band 1 group performed an hour-long concert at the Midwest Band and Orchestra Convention in Chicago. Melissa, Olivia, and I traveled to Chicago to watch their performance. The band was amazing! Also, Chicago is a great city, but December is _very_ cold there!
 
 
 ### Learning Experience
@@ -173,4 +192,4 @@ I learned that I haven't been practicing algorithms enough. This seems to be the
 
 My brief foray into interviewing was healthy for me. I learned more about myself. I also saw patterns that I liked and others I will avoid when hiring people for my own company in the future.
 
-I remain thankful that I have a great job that allows me a tremendous amount of freedom to grow and learn. Also, my Call-Em-All team encourages me to work on Presto. They clearly see how much I am learning from it, which means I bring more knowledge and experience to the team!
+I remain thankful that I have a great job that allows me a tremendous amount of freedom to grow and learn. Also, my Call-Em-All team encourages me to work on Presto. They clearly see how much I am learning from it, which means I bring more knowledge and experience to the Call-Em-All team!
