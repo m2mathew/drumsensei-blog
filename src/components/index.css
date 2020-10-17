@@ -3,3 +3,11 @@
 	background-size: cover;
 	background-position: center;
 }
+
+figcaption p {
+  max-width: 500px;
+  margin: 0 auto;
+  padding-top: 16px;
+  font-size: 15px;
+  text-align: center;
+}
