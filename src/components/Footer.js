@@ -8,23 +8,23 @@ import { rhythm } from '../utils/typography'
 const PrestoDarkPurple = '#280154';
 
 // Component Definition
-class Footer extends React.Component {
-  render() {
-    return (
-      <footer
-        style={{
-          backgroundColor: 'lavenderblush',
-          borderTop: `1px solid ${PrestoDarkPurple}`,
-          display: 'flex',
-          fontSize: '0.9rem',
-          marginTop: rhythm(1),
-          padding: rhythm(0.75),
-        }}
-      >
-        &copy; 2019 Drumsensei Media
-      </footer>
-    )
-  }
-}
+const Footer = () => {
+  const currentYear = new Date().getFullYear();
+
+  return (
+    <footer
+      style={{
+        backgroundColor: 'lavenderblush',
+        borderTop: `1px solid ${PrestoDarkPurple}`,
+        display: 'flex',
+        fontSize: '0.9rem',
+        marginTop: rhythm(1),
+        padding: rhythm(0.75),
+      }}
+    >
+      &copy; {currentYear} Drumsensei Media
+    </footer>
+  )
+};
 
 export default Footer

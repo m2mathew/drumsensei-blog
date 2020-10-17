@@ -43,7 +43,7 @@ And this is just the beginning of the piece - we didn't even discuss what it tak
 
 In programming, we were recently presented with a similar kind of problem. We needed a framework of rules and understanding of JavaScript to begin to tackle hoisting exercises. I will readily admit that I am still not always getting these 100% figured out, but I am coming closer. Here is an example of one of our first exercises in learning about hoisting:
 
-```
+```javascript
 var val = 'my value';
 
 (function() {

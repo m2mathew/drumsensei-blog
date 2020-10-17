@@ -17,7 +17,7 @@ This handy-dandy feature behaves like a variable but lets you put in more lines 
 
 At the top of your code (or really anywhere _before_ you need it) add a **mixin** by including this code:
 
-```
+```css
 @ mixin link() {
   background-color: pink;
   color: white;
@@ -28,7 +28,7 @@ This means that we want to use the visual configuration of white text on a pink 
 
 When the mixin is needed in the code (after it has been declared!), then just use this to include it:
 
-```
+```css
 @include link();
 ```
 
@@ -36,7 +36,7 @@ Now...a great reason I saw to use this in code. It is becoming accepted to use t
 
 Here is a snippet of code that will allow us to insert font sizes as the "em" measurement, but also provide a measurement in pixels.
 
-```
+```css
 @mixin font($em) {
   font-size: ($em*16) + px;
   font-size: ($em) + em;
@@ -47,7 +47,7 @@ Here is a snippet of code that will allow us to insert font sizes as the "em" me
 
 The perceptive student will note the `$em` is a variable. Mixins can include variables, which makes this a very powerful tool! This can be called from within the code like this:
 
-```
+```css
 footer {
   color: blue;
   font-weight: bold;

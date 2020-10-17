@@ -13,7 +13,7 @@ We also discussed several scenarios that JavaScript handles in a quirky way. Typ
 
 For instance, let's assign a value to the variable "name" and put it into an important sentence:
 
-```
+```javascript
 var name = "Mike";
 var statement = name + " is really cool";
 var name = "Bob";
