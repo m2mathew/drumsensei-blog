@@ -31,12 +31,13 @@ I also had the flu over Christmas in 2010. With Melissa and I both being teacher
 
 Early in the year Andy Eldridge asked me to be the best man in his wedding to Jennifer. I looked in the mirror, and I felt and looked unhealthy. I started making some changes with regards to eating less sugar and bread and being more active. I ended up getting fairly healthy by the time of the ceremony. Isaac and Alexis got to be in the wedding, too. And the Dallas Mavericks won the NBA Championship during their wedding reception. It was a GREAT DAY!
 
-![Isaac and Alexis with me at the Eldridge/Fast wedding in June 2011](./2011-June--Daddy-Isaax-Alexis-wedding.JPG)
+![Isaac and Alexis with Daddy at the Eldridge/Fast wedding in June 2011](./2011-June--Daddy-Isaax-Alexis-wedding.JPG)
 
 Also of note:
 - Both Isaac and Alexis had their tonsils and adenoids removed on St. Patrick's Day. Lots of ice cream and much less strep in our house!
 - Family vacation (plus Melissa's parents) to San Antonio to Sea World.
 - My little brother Stephen turned 13 and our mom came over for a rare visit, one of our last times to visit with her.
+- Stephen started band playing percussion. Since we were cash-strapped, we stopped paying for cable TV to afford percussion lessons for Stephen. This began the long mental thaw from watching so much one-sided cable TV news for me. Shout out to his teacher [Patricia Islas](https://www.teamislas.com/) for the lessons and inadvertently making our family more open-minded!
 
 ![Stephen and Denise Mathew on Stephen's 13th birthday in October 2011](./2011-October--Denise-Stephen-birthday.JPG)
 
@@ -52,16 +53,13 @@ In June I was in the middle of teaching the drum line camp at North Mesquite Hig
 
 ![Ewok meets Olivia in June 2012](./2012-Ewok-meets-Olivia.JPG)
 
-
 My uncle Ricky got married at the young age of 57 to a wonderful woman named Teri. They went to high school together in the first graduating class of Berkner High School in Richardson, TX. They knew each other way back when, and Ricky always liked Teri, but he never asked her out because she had a boyfriend. No matter, they found each other later in life and are a very happy couple. Again, this was one of the rare chances to see my mom Denise and give her a big hug.
 
-![Rick, Teri, and Denise in February 2012](./2012-Rick-and-Teri-wedding.JPG)
+![Rick, Teri, and Denise at the Stephens/Odom wedding in February 2012](./2012-Rick-and-Teri-wedding.JPG)
 
 I also had a great time hanging out with some of my best friends from high school. One Christopher Vigneron was finally visiting in the US again from his new home in the Czech Republic, so we convened our small group of friends for a meal and some drinks. Good times were had by all.
 
-
 ![High school friend reunion in December 2012](./2012-High-school-friend-reunion.JPG)
-
 
 ### Learning Experience
 
@@ -89,11 +87,21 @@ Thinking back and looking at social media posts, it's clear that I was working w
 
 ### Positive Experience
 
-I left Berkner High School in the summer for a job at Forney High School. On paper this was a huge win. Our family lived in the neighborhood directly between the one high school and the one middle school. I ate lunch at home every day and rode my bike to teach at the middle school if the weather was nice. This position paid a good deal more than my Berkner position, always helpful with three kids and my brother living at home with us still. I calculated that I would be saving about $100/mo in gas, too.
+I loved working at Berkner. The staff was phenomenal with a tremendous focus on results and student-centered learning. My percussion partner was [Scott Ward](http://themusicward.com/home). We had gone to college together at [Texas A&M University-Commerce](http://www.tamuc.edu/academics/colleges/humanitiesSocialSciencesArts/departments/music/studios/percussion/default.aspx), and our shared experiences over the years meant that we were nearly always on the same page. Real life legends on staff meant allowed me to soak in music education wisdom every single day in every rehearsal.
 
-The main decision to pursue this was made so I could be home more. I expected there to be less time at the schools since there is only one middle school (I usually worked in bigger schools with 2-3 feeder middle schools). It worked! I saw my family more for that entire school year.
+The percussion-centric event at Berkner is the "Night of Drumming". This huge spectacle includes about 100 percussion students from all Berkner campuses in grades 6-12. The 2014 edition sold about 800 tickets. It was a blast to put together, though we were glad for it to finish. Lots of work goes into a huge event like that! After the 2014 "Night of Drumming", the entire band staff went out for dinner together. Although Scott and I didn't know it, a famous Texas college band director had "stopped by" our concert that evening. He told us that he enjoyed the concert and that it was one of the most _musical_ concerts he had gone to. Wow, what a compliment since that was always our aim!
 
-Melissa also started graduate school to become a school librarian, and Isaac started band playing French horn.
+![Berkner High School Night of Drumming in May 2014](./2014-Berkner-NIght-of-Drumming.JPG)
+
+The flurry of events throughout the spring semester meant that I barely saw my own children at the end of the year, though. I left Berkner High School in the summer for a job at Forney High School. On paper this was a huge win. Our family lived in the neighborhood directly between the one high school and the one middle school on our side of Forney. I ate lunch at home every day and rode my bike to teach at the middle school if the weather was nice. This position paid more than my Berkner position, always helpful with three kids and my brother living at home with us still. I calculated that I would be saving about $100/mo in gas, too.
+
+The main decision to pursue this was made so I could be home more. I expected there to be less time at the schools since there is only one middle school (I usually worked in bigger schools with 2-3 feeder middle schools). It worked! I saw my family more for that entire school year. This was also the first place in my career where the football stadium was on the same campus at the high school. That's a huge timesaver when you consider how much stuff has to move for any rehearsal or performance.
+
+![First day of school in August 2014](./2014-First-day-of-school.jpg)
+
+Also of note:
+- Melissa began graduate school studying for work as a school librarian
+- Isaac started band playing French horn.
 
 ### Learning Experience
 
@@ -115,13 +123,19 @@ I called up Daniel D., and we had a nice, long chat about coding school includin
 
 But I still had not resigned from my job at Forney High School. I went to the HS to start gathering my things, and I wrote a resignation letter to give to the principal. The head director came into our big percussion room to talk to me. This was fortuitous as I needed to tell him in person about this. He approached me and said, "I hear you have been interviewing at other places, Mike." _Awkward_. I said, "Well, yes, I am unhappy here." I then proceeded to tell him my plan about switching careers to go into coding full time. His response is etched in my mind as how he thought of the staff members, "Well, it will be easy to find another percussion guy." This is in contrast to my former boss's response when I told him that I would be leaving Berkner, a very positive plea to get me to stay.
 
+Since I had no high school marching band duties, I was able to help out my good friend [Andrew Eldridge](https://andreweldridge.com/) as a teacher for the drum line at the University of Texas at Arlington. This is the first time I was able to teach college since way back in 2001 and 2002 when I helped Brian West as a quad tech at Texas Christian University. (Fun fact: when I was helping teach TCU in 2001, I was still an undergraduate student at Texas A&M-Commerce.)
+
+![Michael helping teach the University of Texas at Arlington drum line in August 2015](./2015-UTA-drumline.jpg)
+
 My first day of coding school in Austin coincided with the first day of school for our kids and Melissa. The Sunday immediately before this fateful date, Alexis was baptized at Lake Pointe Church-Forney. Our family and friends attended the baptism, and we all went out for TexMex for lunch. I needed to leave from that lunch to head to Austin for The Iron Yard code school. Melissa walked me out, we exchanged hugs and kisses and tears, and I got on the road to Austin. I stayed in Austin (technically in Plfugerville) with my old friend Dave Reyes. His kindness and generosity cannot be overstated during my three months of code school.
+
+![Michael walking into Day 1 at The Iron Yard in Austin, TX in August 2015](./2015-08-23_the-iron-yard-day-1.jpg)
 
 For The Iron Yard, the classes were fun and challenging, and the assignments were sometimes easy, sometimes extremely challenging. It felt as if I were drinking from a fire hose. Thankfully I had done a good deal of study in the basics of JavaScript for months ahead of time, so that solid foundation helped me. I went home to Forney every weekend to hang with the family. It was a very tough 12-13 weeks for all us, but the isolated time away helped me stay focused and working hard. This was also the first time since the fall of 1992 where I had not been attending weekly high school football games (excepting a bit of college where I was not teaching high school yet). I felt _free_!
 
-When I got out The Iron Yard, my "job" was to find a job as soon as I could. For five weeks I searched for a gig where I knew I would thrive, a small team with a good culture who knew a lot about themselves. My days were spent between learning more about coding and searching all over for gigs. I would alternate between the Mesquite public library and Starbucks for my "work" place. After about three weeks of searching, I came across a job posting for a position at <a href="https://www.text-em-all.com/">Call-Em-All</a> in Frisco. This company had their [manifesto on the website](https://www.call-em-all.com/call-em-all-difference), and I immediately felt like this company had some legs for exactly what I wanted in a team. I ended up getting an interview. I met the team, and hit it off with them from the start. The VP of engineering called me about 20 minutes after my interview to offer me a position at $5k more than was making as a band director. The benefits cost less, so that saved our family more than $10k/year. And, my very first day of work on 12/21/2015, the company rented out a movie theater so we could all watch "Star Wars: The Force Awakens" together. It was a true blessing to land this job with Call-Em-All!
+When I got out The Iron Yard, my "job" was to find a job as soon as I could. For five weeks I searched for a gig where I knew I would thrive, a small team with a good culture who knew a lot about themselves. My days were spent between learning more about coding and searching all over for gigs. I would alternate between the Mesquite public library and Starbucks for my "work" place. After about three weeks of searching, I came across a job posting for a position at <a href="https://www.text-em-all.com/">Call-Em-All</a> in Frisco. This company had their [manifesto on the website](https://www.call-em-all.com/call-em-all-difference), and I immediately felt like this company had some legs for exactly what I wanted in a team. I ended up getting an interview. I met the team, and hit it off with them from the start. The VP of engineering called me about 20 minutes after my interview to offer me a position making a bit higher salary than my former band director position. The benefits cost less, so that saved our family more than $10k/year. And, my very first day of work on 12/21/2015, the company rented out a movie theater so we could all watch "Star Wars: The Force Awakens" together. It was a true blessing to land this job with Call-Em-All!
 
-![Michael walking into Day 1 at The Iron Yard in Austin, TX in August 2015](./2015-08-23_the-iron-yard-day-1.jpg)
+![Michael at Day 1 of working at Call-Em-All in Frisco, TX in December 2015](./2015-CEA-first-day.jpg)
 
 ### Learning Experience
 
@@ -134,11 +148,17 @@ One day in January I came home from Forney HS to eat lunch, and our Pomeranian E
 
 ### Positive Experience
 
-After working at Call-Em-All only a few months, I mentioned a few times that "I wish there was a React meetup in Dallas." My time in Austin, TX meant I was around many potential nerdy tech meetups every day. I went to a few of them regularly. I always attended Refresh Austin in downtown on the upper floor of a bar. I enjoyed the Sass meetup at Capital Factory, where I first met [Una Kravets](https://twitter.com/una) in person – she became one of my internet heroes! Back to Call-Em-All...the final time I mentioned "React meetup", our VP of Engineering [Hai Nguyen](https://www.linkedin.com/in/hihai/) told me to go get a company credit card and start the meetup. 🤣
+After working at Call-Em-All only a few months, I mentioned a few times that "I wish there was a React meetup in Dallas." My time in Austin, TX meant I was around many potential nerdy tech meetups every day. I went to a few of them regularly. I always attended Refresh Austin in downtown on the upper floor of a bar. I enjoyed the Sass meetup at Capital Factory, where I first met [Una Kravets](https://twitter.com/una) in person – she became one of my internet heroes! Back to Call-Em-All...the final time I mentioned "React meetup", our VP of Engineering [Hai Nguyen](https://www.linkedin.com/in/hihai/) told me to go get a company credit card and start the meetup.
 
 I did! We started the [ReactJS Dallas meetup](https://www.meetup.com/ReactJSDallas/) in February 2016. The organizers are Hai, [Nitin Shetty](https://www.linkedin.com/in/shettynitin/), and me, with most of the legwork falling to me. I surveyed the Dallas scene for other tech meetups and determined that the 2nd Tuesday of each month was mostly deserted by other groups. We established all our events on that recurring schedule with our 1st event in March 2016. That first event had 20-25 attendees, and we held it at the Call-Em-All offices in Hall Office Park in Frisco, TX. It was International Women's Day, and Morry Kang from TourConnect was our first speaker ever with an "Intro to React" talk. We were nervous but had fun.
 
+![First meeting of ReactJS Dallas at Call-Em-All in Frisco, TX in March 2016](./2016-first-react-meetup-morry-kang.jpg)
+
 We have never missed a month for 46 straight months. The ReactJS Dallas User Group now has over 2400 members. Our events are big, and people routinely meetup fellow tech enthusiasts. Many get connected to employment opportunities. What a positive experience for all!
+
+Call-Em-All also started a local meeting of Coder Dojo in our office. Our group set a schedule of meeting every other Saturday morning. I volunteered for nearly every event. My background as a teacher could be helpful here, though mostly the students were encouraged to seek out answers on their own. It was a fun time, and my own two older children Isaac and Alexis started to attend as well. Hopefully they learned at least a little coding to help them along the road later on!
+
+![Isaac and Alexis at Coder Dojo at Call-Em-All in Frisco, TX in October 2016](./2016-Coder-dojo-isaac-and-alexis.jpg)
 
 Also of note:
 - Alexis finished elementary school in Mesquite as a 5th grade student.
@@ -149,21 +169,22 @@ Also of note:
 
 ### Learning Experience
 
-Starting at Call-Em-All was eye-opening. I learned fast that I was great at some things, but had much to learn in other areas. I think that I had a bit of [impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) during this time. Our engineering team was pretty small still, so all of us sat in on engineering interviews. I saw several people come through, have to deal with whiteboarding problems, get nervous...the usual thing that people in tech have experienced over the years. Thinking back to my own interview with the CEA team, I did no "tech" portion at all. It was only a culture interview, and a quick offer. I started to wonder if I was on a probationary status. So, being the kind of person I am, I worked a lot harder to get "caught up".
+Starting at Call-Em-All was eye-opening. I learned fast that I was great at some things, but had much to learn in other areas. I think that I had a bit of [impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) during this time. Our engineering team was pretty small still, so all of us sat in on engineering interviews. I saw several people come through, have to deal with whiteboarding problems, get nervous...the usual thing that people in tech have experienced over the years. Thinking back to my own interview with the CEA team, I did no technical portion at all. It was only a culture interview, and a quick offer. I started to wonder if I was on a probationary status. So, being the kind of person I am, I worked a lot harder to get "caught up".
 
-I mentioned all of this later to a co-worker who had helped me learn Redux. He heartily laughed and assured me that the things he was teaching me he had only learned a few days prior, too! Whew! 😅 Turns out that I was doing fine the whole time. It took me a long while to feel that confidence in my bones, though. When I questioned another co-worker about no tech portion in my interview, he assured me that the team felt confident about me because I had _so much_ code out in Github for them to see. That helped put me at ease.
+I mentioned all of this later to a co-worker who had helped me learn Redux. He heartily laughed and assured me that the things he was teaching me he had only learned a few days prior, too! Whew! 😅 Turns out that I was doing fine the whole time. It took me a long while to feel that confidence in my bones, though. When I questioned another co-worker about the lack of technical portion in my interview, he assured me that the team felt confident about me because I had _so much_ code out in Github for them to see. That helped put me at ease. I had spent a good while "learning in public", and it paid off!
 
 
 # 2017
 
 ### Positive Experience
 
-My little brother Stephen graduated from Berkner High School. He decided to pursue a degree in Music Education from the University of Texas at Arlington.
+My little brother Stephen graduated from Berkner High School. He decided to pursue a degree in Music Education from the University of Texas at Arlington. After we raised him for ten years, we finally watched him cross this portal into the rest of his life!
+
+![Melissa, Stephen, and Michael at Stephen's high school graduation in June 2017](./2017-Stephen-high-school-graduation.JPG)
 
 On Easter I visited Arapaho Road Baptist Church to check out the place. I was scheduled to start playing drums there a couple of weeks later. Turns out I have only missed 3-4 Sundays in the intervening two and half years. It's a fun place to attend and play in the worship band!
 
-At the end of the year, I started planning out a [new website](https://www.texasmusicadmin.com/) for the Texas Music Administrators Conference. Once Jeff Turner, Director of Fine Arts in Allen ISD, got involved a few months later, we really addressed the needs of the group. This was a fun project, and I still help keep the site tidy for them.
-
+At the end of the year, I started planning out a [new website](https://www.texasmusicadmin.com/) for the Texas Music Administrators Conference. Once Jeff Turner, Director of Fine Arts in Allen ISD, got involved a few months later, we built a plan to address the needs of the group. This was a fun project, and I still help keep the site tidy for them.
 
 ### Learning Experience
 
@@ -171,11 +192,17 @@ Early in the morning of Easter I got word that my father Mark Mathew had passed 
 
 As ever, if your parents are still here on earth, then you should make sure to communicate with them often and shower them with love. Both of my parents are gone, so my time with them here is over.
 
+Here's the last message that my father Mark ever sent me on Facebook Messenger. I think that just about sums everything up!
+
+![Last message sent from Mark Mathew to Michael Mathew in early 2017](./2017-last-message-from-mark-mathew.png)
+
 # 2018
 
 ### Positive Experience
 
 We bought a new house that fits everyone really well. It's only a few minutes from the apartment where we lived when Isaac was born in 2002. The location means all work and most family are less than 30 minutes away, and we live exactly one mile from my uncle Ricky and aunt Teri.
+
+![Mathew family bought a new house in summer 2018](./2018-bought-a-new-house.jpg)
 
 My friend [Austin Chappell](https://www.linkedin.com/in/austin-chappell-2348145a/) and I started planning and building [Presto Assistant](https://www.presto-assistant.com/), an app to help fine arts teachers get and stay organized. Each of us had friends reach out and asked us to build something like Presto that would replace their old and unreliable existing tools. Austin and I had both done a good deal of software work by this point, even some projects for people outside of the companies where we worked. We agreed to get started on a project that would meet the needs of our music education friends.
 
@@ -183,14 +210,19 @@ My friend [Austin Chappell](https://www.linkedin.com/in/austin-chappell-2348145a
 
 Our family took a vacation to Galveston for several days, our first in several years. It was good to get away and unplug for a while. Melissa and I (and the kiddos) all agreed that we should be getting away more often!
 
+![Mathew family took a trip to Galveston in summer 2018](./2018-family-trip-to-galveston.jpg)
+
 # 2019
 
 ### Positive Experience
 
-Presto Assistant proved to be a project that Austin and I both love to work on. But, like any project that pursues excellence, it takes a long time. We made significant progress on all parts of the app, and we divided the labor in a way that made us work faster and smarter. We can see it being our full-time job one day. Presto is going to help a _lot_ of people.
+Presto Assistant proved to be a project that Austin and I both love to work on. But, like any project that pursues excellence, it takes a long time. We made significant progress on all parts of the app, and we divided the labor in a way that made us work faster and smarter. We can see it being our full-time job one day. Presto is going to help a _lot_ of people. Our famous Presto Summits are held most weekends. It's a chance for us to work side-by-side on the project and handle some of the longer-term planning.
+
+![Presto Summit at 1418 Coffee in Plano, TX in May 2019](./2019-05-18-PrestoSummit-at-1418-Coffee.jpg)
 
 Our two oldest children Isaac and Alexis were in the Berkner Symphonic Band 1, the top performing wind ensemble at the school. In December the Symphonic Band 1 group performed an hour-long concert at the Midwest Band and Orchestra Convention in Chicago. Melissa, Olivia, and I traveled to Chicago to watch their performance. The band was amazing! Also, Chicago is a great city, but December is _very_ cold there!
 
+![Isaac and Alexis perform with the Berkner Symphonic I Band at Midwest in Chicago, IL in December 2019](./2019-midwest-family-pic-after-performance.jpg)
 
 ### Learning Experience
 
@@ -201,3 +233,9 @@ I learned that I haven't been practicing algorithms enough. This seems to be the
 My brief foray into interviewing was healthy for me. I learned more about myself. I also saw patterns that I liked and others I will avoid when hiring people for my own company in the future.
 
 I remain thankful that I have a great job that allows me a tremendous amount of freedom to grow and learn. Also, my Call-Em-All team encourages me to work on Presto. They clearly see how much I am learning from it, which means I bring more knowledge and experience to the Call-Em-All team!
+
+### Wrapping Up
+
+I leave you with this universal truth. I hope that the next decade is full of as many adventures and fantastic memories!
+
+![Sadness plus drums equals happiness](./drums-make-me-happy.JPG)
