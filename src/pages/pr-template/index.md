@@ -20,7 +20,7 @@ If you are working on a team of > 1 and want to maintain a consistent approach t
 
 Here is a template I use for a basic web application repository:
 
-```sh
+```bash
 ### Completes [Trello/Jira Story]()
 
 --------------

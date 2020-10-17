@@ -6,9 +6,8 @@ date: "2015-07-31"
 I am Mike Mathew, and you have stumbled into my corner of the interwebs. Welcome!
 
 In the case that you don't know me, please go find my [About](/about) page and learn more there. If I already know you, then we should probably talk more often. Please send a text that reads:
-```
-Let's do lunch. Your blog made me do this.
-```
+
+`Let's do lunch. Your blog made me do this.`
 
 For a long, long while I have been meaning to get a space set up to make words appear on the internet.
 

@@ -11,3 +11,50 @@ figcaption p {
   font-size: 15px;
   text-align: center;
 }
+
+/* gatsby-prism styles */
+
+/* Adjust the position of the line numbers */
+.gatsby-highlight pre[class*="language-"].line-numbers {
+  padding: 0;
+  padding-left: 2.8em;
+}
+
+/* .gatsby-highlight-code-line {
+  background-color: #feb;
+  display: block;
+  margin-right: -1em;
+  margin-left: -1em;
+  padding-right: 1em;
+  padding-left: 0.75em;
+  border-left: 0.25em solid #f99;
+} */
+
+.gatsby-highlight {
+  background-color: #fdf6e3;
+  border-radius: 0.3em;
+  margin: 0.5em 0;
+  padding: 0.4em 0.8em;
+  overflow: auto;
+}
+
+.command-line-prompt > span:before {
+  color: #999;
+  content: " ";
+  display: block;
+  padding-right: 0.8em;
+}
+
+/* Prompt for all users */
+.command-line-prompt > span[data-user]:before {
+  content: "[" attr(data-user) "@" attr(data-host) "] $";
+}
+
+/* Prompt for root */
+.command-line-prompt > span[data-user="root"]:before {
+  content: "[" attr(data-user) "@" attr(data-host) "] #";
+}
+
+.command-line-prompt > span[data-prompt]:before {
+  content: attr(data-prompt);
+}

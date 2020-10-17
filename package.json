@@ -49,6 +49,8 @@
     "url": "git+https://github.com/m2mathew/drumsensei-blog.git"
   },
   "scripts": {
+    "clean:gatsby": "gatsby clean",
+    "clean:purge": "rm -rf node_modules && yarn cache clean",
     "dev": "gatsby develop",
     "lint": "./node_modules/.bin/eslint --ext .js,.jsx --ignore-pattern public .",
     "test": "echo \"Error: no test specified\" && exit 1",
