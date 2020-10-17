@@ -1,7 +1,7 @@
 ---
 title: "Decade in Review: 2010s"
 date: "2020-01-03"
-length: "17 min read"
+length: "21 min read"
 ---
 
 My friend Mike Garcia (of L.V.Berkner High School/Texas Christian University/Phantom Regiment fame) recently shared his reflections on the previous decade. Anyone alive in early 2020 is seeing these type of posts from friends. The difference about Mr. Garcia's post – he adds what he _learned_ from each year. His positive take on the process of reflecting on the previous ten years made an impact on me.
