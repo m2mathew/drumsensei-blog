@@ -18,7 +18,7 @@ Tag selectors are HTML tags (such as `<header>`, `<body>`, `<img>`, `<a>`, etc.)
 
 Tag selector example in CSS
 
-```
+```css
 body {
   text-align: center;
   font-family: "Roboto Mono", sans serif;
@@ -29,19 +29,19 @@ Class selectors are custom names that a developer can create to help modify the 
 
 In the HTML document they take the form:
 
-```
+```css
 <HTML_element class="class-name">
 ```
 
 In the CSS file they are preceded with a period like so:
 
-```
+```css
 .class-name {...}
 ```
 
 Class selector example in CSS
 
-```
+```css
 .class-name {
   display: inline;
   margin: 0 auto;
@@ -52,7 +52,7 @@ ID selectors are unique names that will only apply to a single element on the pa
 
 ID selector example in CSS:
 
-```
+```css
 #batman {
   background-color: black;
   color: black;

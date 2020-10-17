@@ -15,7 +15,7 @@ An **array** is a data structure that lists information in what we can think of 
 
 An empty array named `groceries` looks like this:
 
-```
+```javascript
 var groceries = [];
 ```
 
@@ -25,7 +25,7 @@ An **object** is a data structure that functions more like a large bag that hold
 
 An empty object named `kitchen` looks like this:
 
-```
+```javascript
 var kitchen = {};
 ```
 
@@ -33,7 +33,7 @@ var kitchen = {};
 
 We need to insert data into our array, so we will use the array method `.push()` to insert data into the front of the structure. (You can also add data at the end or the middle, as needed.)
 
-```
+```javascript
 groceries.push('milk');
 groceries.push('eggs');
 groceries.push('bacon');
@@ -41,7 +41,7 @@ groceries.push('bacon');
 
 So our array now looks like this:
 
-```
+```javascript
 > ['milk', 'eggs', 'bacon']
 ```
 
@@ -49,7 +49,7 @@ These values inside the array can be retrieved and used by referring to label of
 
 If we need to access an element of the array and reassign a new value to the spot that holds milk, that would look like this (pronounced "groceries sub zero):
 
-```
+```javascript
 groceries[0] = 'whole milk';
 ```
 
@@ -57,7 +57,7 @@ groceries[0] = 'whole milk';
 
 Unlike an array, an object is not ordered, so we cannot _push_ things to the object. Instead we have to access _keys_ that behave as labels for the objects inside the array. If the keys do not already exist, then they will be created as we give them a value. For example:
 
-```
+```javascript
 kitchen.flour = '2lb';
 kitchen.eggs = 1;
 kitchen.coffee = true;
@@ -69,7 +69,7 @@ Objects have two ways to retrieve data from inside: dot notation (usually prefer
 
 A **matrix** is created when we store an array as an element inside an array. If we had three arrays stored inside of an array, then that might look something like this:
 
-```
+```javascript
 var matrix = [
   [0, 0, 0],
   [0, 0, 0],

@@ -19,7 +19,7 @@ This makes the HTML and CSS look more similar in structure. The code snippet bel
 
 This is generated:
 
-```
+```css
 nav {
   background-color: #fff;
   padding: 0.5em 0;
@@ -33,7 +33,7 @@ nav {
 
 Which puts this into the stock CSS file:
 
-```
+```css
 nav {
   background-color: #fff;
   padding: 0.5em 0;
@@ -55,13 +55,13 @@ SCSS allows defined variables to be used throughout the code. I learned about so
 
 You are a designer (or an indy developer) dealing with three different main colors on the site you are building. You apply the variable method to your colors like so:
 
-```
+```css
 $primaryColor: #bada55;
 ```
 
 And you apply it to code like this:
 
-```
+```css
 a {
   color: red;
   background-color: pink;
