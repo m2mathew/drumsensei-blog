@@ -50,7 +50,15 @@ Later in the year, Melissa was having a lot of pain and was rushed to Baylor Hos
 
 In June I was in the middle of teaching the drum line camp at North Mesquite High School. Melissa called and said, "We are going to the hospital!" I left my students in the capable hands of our million-dollar percussion staff, and went to be with my lady. The next day on Thursday morning about 6:30am Olivia Rose was born. Our family was complete!
 
+![Ewok meets Olivia in June 2012](./2012-Ewok-meets-Olivia.JPG)
+
+
+My uncle Ricky got married at the young age of 57 to a wonderful woman named Teri. They went to high school together in the first graduating class of Berkner High School in Richardson, TX. They knew each other way back when, and Ricky always liked Teri, but he never asked her out because she had a boyfriend. No matter, they found each other later in life and are a very happy couple. Again, this was one of the rare chances to see my mom Denise and give her a big hug.
+
+![Rick, Teri, and Denise in February 2012](./2012-Rick-and-Teri-wedding.JPG)
+
 I also had a great time hanging out with some of my best friends from high school. One Christopher Vigneron was finally visiting in the US again from his new home in the Czech Republic, so we convened our small group of friends for a meal and some drinks. Good times were had by all.
+
 
 ![High school friend reunion in December 2012](./2012-High-school-friend-reunion.JPG)
 
@@ -64,7 +72,7 @@ My mom Elizabeth Denise Mathew got very sick, went on life support, and we had t
 
 ### Positive Experience
 
-I finished my fifth year at North Mesquite. Excellent culture. Students improving and a solid structure for the program. I also got a call that the Berkner High School percussion job was opening. I applied for Berkner, and I got the job. This meant a lot to me because my mom and her brothers went to Berkner. I also went to a feeder elementary school and junior high school for Berkner before my family moved to the nearby suburb of Rowlett way back in 1991. In 2002 I completed my student teaching at Berkner in the middle of my teaching the drum line and percussion lessons for two years at Berkner. The Berkner program has always meant a lot to me, and it still does!
+I finished my fifth year at North Mesquite. Excellent culture. Solid staff. Students improving and a good structure for the program. In the early summer I received a call that the Berkner High School percussion job was opening. I applied for Berkner, and I got the job. The North Mesquite program was in a good place to hand over to my successor Steven Washington. Working at Berkner meant a lot to me because my mom and her brothers went to Berkner. I also went to a feeder elementary school and junior high school for Berkner before my family moved to the nearby suburb of Rowlett way back in 1991. In 2002 I completed my student teaching at Berkner and Apollo Junior High in the middle of my teaching the drum line and percussion lessons for two years at Berkner. The Berkner program has always meant a lot to me, and it still does!
 
 ![The Snare line from Berkner High School in November 2013](./2013-Berkner-snare-line.JPG)
 
