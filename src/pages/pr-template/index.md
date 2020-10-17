@@ -1,7 +1,7 @@
 ---
 title: "Use a Pull Request Template in GitHub"
 date: "2020-10-14"
-length: "4 min read"
+length: "2 min read"
 ---
 
 GitHub templates are all the rage!
