@@ -11,6 +11,7 @@ import Footer from './Footer';
 import { rhythm, scale } from '../utils/typography';
 
 // Local Variables
+const NAV_HEIGHT = 104;
 const PrestoDarkPurple = '#280154';
 const SMALL_SCREEN_SIZE = 500;
 
@@ -45,13 +46,14 @@ class Layout extends Component {
     let header;
 
     if (location.pathname === rootPath) {
+      const headerScale = isSmallScreen ? scale(0.9) : scale(1.2)
+
       header = (
         <h1
           style={{
             color: 'rebeccapurple',
-            ...scale(1.2),
+            ...headerScale,
             marginBottom: rhythm(1.5),
-            marginTop: 64,
           }}
         >
           <div
@@ -71,7 +73,6 @@ class Layout extends Component {
           style={{
             color: 'rebeccapurple',
             fontFamily: 'Montserrat, sans-serif',
-            marginTop: 64,
             marginBottom: rhythm(-1),
           }}
         >
@@ -87,8 +88,13 @@ class Layout extends Component {
         </h3>
       )
     }
+
     return (
-      <div>
+      <div
+        style={{
+          background: '#f3f3f3',
+        }}
+      >
         <nav
           style={{
             background: 'lavenderblush',
@@ -96,9 +102,8 @@ class Layout extends Component {
             boxShadow: `3px 0 5px ${PrestoDarkPurple}`,
             display: 'flex',
             alignItems: 'center',
-            height: 64,
+            minHeight: NAV_HEIGHT,
             padding: '12px 32px',
-            position: 'fixed',
             width: '100%',
             zIndex: 1000,
           }}
@@ -111,7 +116,13 @@ class Layout extends Component {
               width: '100%',
             }}
           >
-            <div>
+            <div
+              style={{
+                alignSelf: 'flex-start',
+                display: 'flex',
+                marginTop: 16,
+              }}
+            >
               <Link
                 to="/"
                 style={{
@@ -123,12 +134,28 @@ class Layout extends Component {
                 <DsLogo
                   svgStyles={{
                     height: isSmallScreen ? 32 : 48,
-                    transform: 'translateY(10px)',
+                    transform: 'translateY(10px) rotate(-2deg)',
                   }}
                 />
               </Link>
             </div>
-            <div>
+            <div
+              style={{
+                display: 'flex',
+                flexDirection: 'column',
+              }}
+            >
+              <Link
+                to="/about"
+                style={{
+                  boxShadow: 'none',
+                  color: 'inherit',
+                  fontWeight: 600,
+                  textDecoration: 'none',
+                }}
+              >
+                About
+              </Link>
               <Link
                 to="/"
                 style={{
@@ -141,26 +168,53 @@ class Layout extends Component {
               >
                 Blog
               </Link>
-              <Link
-                to="/about"
+              <a
+                href="https://www.mikemathew.com/"
                 style={{
                   boxShadow: 'none',
                   color: 'inherit',
                   fontWeight: 600,
+                  marginRight: 24,
                   textDecoration: 'none',
                 }}
               >
-                About
-              </Link>
+                Projects
+              </a>
+              <a
+                href="https://twitter.com/drumsensei"
+                style={{
+                  boxShadow: 'none',
+                  color: 'inherit',
+                  fontWeight: 600,
+                  marginRight: 24,
+                  textDecoration: 'none',
+                }}
+              >
+                Twitter
+              </a>
+              <a
+                href="https://github.com/m2mathew/"
+                style={{
+                  boxShadow: 'none',
+                  color: 'inherit',
+                  fontWeight: 600,
+                  marginRight: 24,
+                  textDecoration: 'none',
+                }}
+              >
+                GitHub
+              </a>
             </div>
           </div>
         </nav>
         <main
           style={{
+            background: 'white',
             marginLeft: 'auto',
             marginRight: 'auto',
+            marginTop: 4,
             maxWidth: rhythm(25),
-            padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
+            padding: `${rhythm(0.5)} ${rhythm(3 / 4)}`,
           }}
         >
           {header}
