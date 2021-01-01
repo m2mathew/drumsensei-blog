@@ -4,7 +4,7 @@ date: "2020-12-31"
 length: "4 min read"
 ---
 
-![home gym image courtesy of freepik.com](./gradient-home-gym-with-different-elements.jpg)
+![home gym - image courtesy of freepik.com](./gradient-home-gym-with-different-elements.jpg)
 
 A few years back I stopped making resolutions at the start of the new year. It seems a bit arbitrary to make goals due to the calendar turning to a different day with an incremented year. I know this makes me sound like a snarky old man — not much argument here — but I think it best to set goals and/or establish new habits as soon as one is able. That being said, I have been pinning an area of _focus_ to each year, not a specific goal but more of a domain.
 

@@ -14,6 +14,7 @@ class Bio extends React.Component {
     return (
       <div
         style={{
+          borderBottom: '1px solid lavender',
           display: 'flex',
           marginBottom: rhythm(2),
         }}
