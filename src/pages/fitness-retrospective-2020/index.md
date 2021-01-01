@@ -1,7 +1,7 @@
 ---
 title: "Fitness Retrospective 2020"
 date: "2020-12-31"
-length: "2 min read"
+length: "4 min read"
 ---
 
 ![home gym image courtesy of freepik.com](./gradient-home-gym-with-different-elements.jpg)
