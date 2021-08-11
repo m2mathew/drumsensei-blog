@@ -37,3 +37,7 @@ Now that fitness is an ingrained habit and an expectation for myself, it's time 
   - Heaviest: **213.0** on 12/27
   - Lightest: **199.1** on 2/12
   - Trend for year: **+2.9**
+
+Here is a picture of a good good boy. Thanks!
+
+![image of a good good boy](./good-good-boy.jpg 'A good good boy')
