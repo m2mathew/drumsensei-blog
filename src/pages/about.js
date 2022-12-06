@@ -19,6 +19,7 @@ const About = (props) => {
         meta={[{ name: 'description', content: siteDescription }]}
         title="About"
       />
+
       <div>
         <section>
           <h3>Howdy! I’m Michael D. Mathew</h3>
@@ -41,7 +42,8 @@ const About = (props) => {
             <a href="https://www.presto-assistant.com/">Presto Assistant</a>, a
             service to help fine arts teachers organize their logistics and
             office. This app makes the lives of fine arts teachers
-            better by helping them get and stay organized.
+            better by helping them get and stay organized. It's been a lot of fun
+            to build a product that helps teachers have a better day!
           </p>
           <p>
             As a longtime musician and music educator I worked with some
@@ -64,14 +66,20 @@ const About = (props) => {
             friends are awesome and a continual blessing in my life.
           </p>
         </section>
+
         <section>
           <h3>Find Me</h3>
           <p>
-            I tweet as <a href="https://twitter.com/drumsensei">@drumsensei</a>,
-            and I spend a good bit of time in the open-source awesomeness of{' '}
+            I post on Mastadon as{' '}
+            <a href="https://mstdn.social/@drumsensei">@drumsensei</a>{' '}
+            and also on Twitter as{' '}
+            <a href="https://twitter.com/drumsensei">@drumsensei</a>{' '}
+            (though less often these day).
+            I spend a good bit of time in the open-source awesomeness of{' '}
             <a href="https://github.com/m2mathew">GitHub</a>, too.
           </p>
         </section>
+
         <section>
           <h3>Colophon</h3>
           <p>
@@ -83,18 +91,19 @@ const About = (props) => {
             <a href="https://daringfireball.net/projects/markdown/">Markdown</a>{' '}
             and <a href="">ReactJS</a>. The original incarnation of the site was
             a <a href="http://realmacsoftware.com/rapidweaver/">RapidWeaver</a>{' '}
-            project. After a brief rewrite in Jekyll we end up here! Hosting by{' '}
+            project. After a brief rewrite in Jekyll, we ended up here! Hosting by{' '}
             <a href="https://www.netlify.com/">Netlify</a>. Coding is done in{' '}
             <a href="https://code.visualstudio.com/">Visual Studio Code</a>{' '}
-            (with generous assistance from the dev tools). I use a 2019 16"
-            MacBook Pro and sometimes a fairly large iMac when coding from the
-            homestead. As a constant learner, I will likely be poking and
+            (with generous assistance from the dev tools). I use a 2021 16"
+            M1 MacBook Pro — it's the best machine I've ever used.
+            As a constant learner, I will likely be poking and
             prodding here and there throughout this space, so it might not
             always look the same. Also, there is little guarantee that it will
             appear correctly on older browsers, so{' '}
             <a href="https://browsehappy.com">keep them up to date</a>!
           </p>
         </section>
+
         <section>
           <h3>Why Drumsensei?</h3>
           <p>
@@ -104,7 +113,7 @@ const About = (props) => {
             extraordinary moves and sounds they made were superbly
             choreographed, and they did not put up with any halfway effort.
             After some interval of time, all of the students began to call me
-            "sensei." So, drumsensei seemed appropriate.
+            "sensei." So, <strong>drumsensei</strong> seems appropriate.
           </p>
         </section>
         <hr />

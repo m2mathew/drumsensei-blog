@@ -13,7 +13,7 @@ import { rhythm, scale } from '../utils/typography';
 // Local Variables
 const NAV_HEIGHT = 104;
 const PrestoDarkPurple = '#280154';
-const SMALL_SCREEN_SIZE = 500;
+const SMALL_SCREEN_SIZE = 800;
 
 // Component Definition
 class Layout extends Component {
@@ -179,30 +179,6 @@ class Layout extends Component {
                 }}
               >
                 Projects
-              </a>
-              <a
-                href="https://twitter.com/drumsensei"
-                style={{
-                  boxShadow: 'none',
-                  color: 'inherit',
-                  fontWeight: 600,
-                  marginRight: 24,
-                  textDecoration: 'none',
-                }}
-              >
-                Twitter
-              </a>
-              <a
-                href="https://github.com/m2mathew/"
-                style={{
-                  boxShadow: 'none',
-                  color: 'inherit',
-                  fontWeight: 600,
-                  marginRight: 24,
-                  textDecoration: 'none',
-                }}
-              >
-                GitHub
               </a>
             </div>
           </div>
