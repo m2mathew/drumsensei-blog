@@ -41,6 +41,7 @@ class BlogIndex extends React.Component {
         <Bio />
         {posts.map(({ node }) => {
           const title = get(node, 'frontmatter.title') || node.fields.slug
+
           return (
             <div key={node.fields.slug}>
               <h3

@@ -17,12 +17,19 @@ const Footer = () => {
         backgroundColor: 'lavenderblush',
         borderTop: `1px solid ${PrestoDarkPurple}`,
         display: 'flex',
+        justifyContent: 'space-between',
         fontSize: '0.9rem',
         marginTop: rhythm(1),
         padding: rhythm(0.75),
       }}
     >
-      &copy; {currentYear} Drumsensei Media
+      <div>
+        &copy; {currentYear} Drumsensei Media
+      </div>
+
+      <div>
+        <a rel="me" href="https://mstdn.social/@drumsensei">Mastodon</a>
+      </div>
     </footer>
   )
 };
