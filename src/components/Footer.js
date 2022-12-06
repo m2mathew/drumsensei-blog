@@ -28,7 +28,43 @@ const Footer = () => {
       </div>
 
       <div>
-        <a rel="me" href="https://mstdn.social/@drumsensei">Mastodon</a>
+        <a
+          href="https://mstdn.social/@drumsensei"
+          rel="me"
+          style={{
+            boxShadow: 'none',
+            color: 'inherit',
+            fontWeight: 500,
+            marginRight: 24,
+            textDecoration: 'none',
+          }}
+        >
+          Mastodon
+        </a>
+        <a
+          href="https://twitter.com/drumsensei"
+          style={{
+            boxShadow: 'none',
+            color: 'inherit',
+            fontWeight: 500,
+            marginRight: 24,
+            textDecoration: 'none',
+          }}
+        >
+          Twitter
+        </a>
+        <a
+          href="https://github.com/m2mathew/"
+          style={{
+            boxShadow: 'none',
+            color: 'inherit',
+            fontWeight: 500,
+            marginRight: 24,
+            textDecoration: 'none',
+          }}
+        >
+          GitHub
+        </a>
       </div>
     </footer>
   )
