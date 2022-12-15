@@ -12,6 +12,24 @@ figcaption p {
   text-align: center;
 }
 
+.footer-link {
+  box-shadow: none;
+  color: inherit;
+  font-weight: 500;
+  margin-right: 24px;
+}
+
+@media (max-width: 768px) {
+  .footer-copyright {
+    font-size: 13px;
+  }
+
+  .footer-link {
+    font-size: 13px;
+    margin-right: 16px;
+  }
+}
+
 /* gatsby-prism styles */
 
 /* Adjust the position of the line numbers */
