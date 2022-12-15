@@ -23,45 +23,30 @@ const Footer = () => {
         padding: rhythm(0.75),
       }}
     >
-      <div>
-        &copy; {currentYear} Drumsensei Media
+      <div className="footer-copyright">
+        &copy; {currentYear}{' '}
+        <span style={{ whiteSpace: 'pre' }}>
+          Drumsensei Media
+        </span>
       </div>
 
       <div>
         <a
+          className="footer-link"
           href="https://mstdn.social/@drumsensei"
           rel="me"
-          style={{
-            boxShadow: 'none',
-            color: 'inherit',
-            fontWeight: 500,
-            marginRight: 24,
-            textDecoration: 'none',
-          }}
         >
           Mastodon
         </a>
         <a
+          className="footer-link"
           href="https://twitter.com/drumsensei"
-          style={{
-            boxShadow: 'none',
-            color: 'inherit',
-            fontWeight: 500,
-            marginRight: 24,
-            textDecoration: 'none',
-          }}
         >
           Twitter
         </a>
         <a
+          className="footer-link"
           href="https://github.com/m2mathew/"
-          style={{
-            boxShadow: 'none',
-            color: 'inherit',
-            fontWeight: 500,
-            marginRight: 24,
-            textDecoration: 'none',
-          }}
         >
           GitHub
         </a>
