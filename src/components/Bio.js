@@ -32,7 +32,7 @@ class Bio extends React.Component {
         />
         <p>
           Written by <strong><a href="https://www.mikemathew.com/">Mike Mathew</a></strong> who lives and works in Dallas building useful things.{' '}
-          <a href="https://mstdn.social/@drumsensei">
+          <a href="https://mstdn.social/@drumsensei" rel="me">
             Sometimes he posts.
           </a>
         </p>
