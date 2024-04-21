@@ -9,6 +9,7 @@ import './index.css';
 import DsLogo from '../assets/ds-logo-js.svg';
 import Footer from './Footer';
 import { rhythm, scale } from '../utils/typography';
+import drumsenseiAvatar from './drumsensei_drum_avatar_purple.svg';
 
 // Local Variables
 const NAV_HEIGHT = 104;
@@ -106,6 +107,7 @@ class Layout extends Component {
             padding: '12px 32px',
             width: '100%',
             zIndex: 1000,
+            ...isSmallScreen ? { padding: '12px 16px' } : {},
           }}
         >
           <div
@@ -119,10 +121,21 @@ class Layout extends Component {
             <div
               style={{
                 alignSelf: 'flex-start',
+                alignItems: 'center',
                 display: 'flex',
-                marginTop: 16,
+                gap: 16,
               }}
             >
+              <img
+                alt="Drumsensei logo"
+                src={drumsenseiAvatar}
+                style={{
+                  height: 124,
+                  width: 124,
+                  marginBottom: 0,
+                  ...isSmallScreen ? { height: 72, width: 72 } : {},
+                }}
+              />
               <Link
                 to="/"
                 style={{
