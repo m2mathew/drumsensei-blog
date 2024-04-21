@@ -35,7 +35,8 @@ class Bio extends React.Component {
           <a href="https://mstdn.social/@drumsensei" rel="me">
             Sometimes he posts on Mastodon
           </a>.{' '}
-          Mike also wears many hats at <a href="https://www.presto-assistant.com/">Presto Assistant</a> where he is a Co-Founder, product engineer, and more.
+          Mike also wears many hats at <a href="https://www.presto-assistant.com/">Presto Assistant</a>{' '}
+          where he is a co-founder, owner, and product engineer.
         </p>
       </div>
     )
