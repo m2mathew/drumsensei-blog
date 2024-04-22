@@ -107,7 +107,7 @@ class Layout extends Component {
             padding: '12px 32px',
             width: '100%',
             zIndex: 1000,
-            ...isSmallScreen ? { padding: '12px 16px' } : {},
+            ...isSmallScreen ? { padding: '12px 8px' } : {},
           }}
         >
           <div
@@ -123,7 +123,7 @@ class Layout extends Component {
                 alignSelf: 'flex-start',
                 alignItems: 'center',
                 display: 'flex',
-                gap: 16,
+                gap: isSmallScreen ? 4 : 16,
               }}
             >
               <img
