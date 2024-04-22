@@ -107,7 +107,7 @@ class Layout extends Component {
             padding: '12px 32px',
             width: '100%',
             zIndex: 1000,
-            ...isSmallScreen ? { padding: '12px 16px 12px 8px' } : {},
+            ...isSmallScreen ? { padding: '12px 8px' } : {},
           }}
         >
           <div
