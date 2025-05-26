@@ -3,6 +3,8 @@ name: "0) Start Release - minor version"
 on:
   workflow_dispatch:
 
+permissions: write-all
+
 jobs:
   update-version-and-open-pull-request-:
     runs-on: ubuntu-latest
