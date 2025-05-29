@@ -77,7 +77,7 @@ jobs:
             } catch (error) {
               console.log('No previous release found, will include all merged PRs');
               // Set to a very old date to include all PRs if no previous release
-              lastReleaseDate = new Date('2015-01-01');
+              lastReleaseDate = new Date('2020-01-01');
             }
 
             // Get all merged PRs
