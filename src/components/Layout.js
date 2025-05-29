@@ -43,6 +43,43 @@ class Layout extends Component {
 
     const { isSmallScreen } = this.state;
 
+    const navStyles = {
+      background: 'lavenderblush',
+      borderBottom: `4px solid ${PrestoDarkPurple}`,
+      boxShadow: `3px 0 5px ${PrestoDarkPurple}`,
+      display: 'flex',
+      alignItems: 'center',
+      minHeight: NAV_HEIGHT,
+      padding: '12px 32px',
+      width: '100%',
+      zIndex: 1000,
+    };
+
+    const smallScreenNavStyles = {
+      background: 'lavenderblush',
+      borderBottom: `4px solid ${PrestoDarkPurple}`,
+      boxShadow: `3px 0 5px ${PrestoDarkPurple}`,
+      display: 'flex',
+      alignItems: 'center',
+      minHeight: NAV_HEIGHT,
+      padding: '12px 32px',
+      width: '100%',
+      zIndex: 1000,
+      padding: '12px 8px',
+    };
+
+    const logoStyles = {
+      height: 124,
+      width: 124,
+      marginBottom: 0,
+    };
+
+    const smallScreenLogoStyles = {
+      height: 72,
+      width: 72,
+      marginBottom: 0,
+    };
+
     const rootPath = `${__PATH_PREFIX__}/`
     let header;
 
@@ -53,8 +90,8 @@ class Layout extends Component {
         <h1
           style={{
             color: 'rebeccapurple',
-            ...headerScale,
             marginBottom: rhythm(1.5),
+            transform: headerScale,
           }}
         >
           <div
@@ -97,18 +134,7 @@ class Layout extends Component {
         }}
       >
         <nav
-          style={{
-            background: 'lavenderblush',
-            borderBottom: `4px solid ${PrestoDarkPurple}`,
-            boxShadow: `3px 0 5px ${PrestoDarkPurple}`,
-            display: 'flex',
-            alignItems: 'center',
-            minHeight: NAV_HEIGHT,
-            padding: '12px 32px',
-            width: '100%',
-            zIndex: 1000,
-            ...isSmallScreen ? { padding: '12px 8px' } : {},
-          }}
+          style={isSmallScreen ? smallScreenNavStyles : navStyles}
         >
           <div
             style={{
@@ -129,12 +155,7 @@ class Layout extends Component {
               <img
                 alt="Drumsensei logo"
                 src={drumsenseiAvatar}
-                style={{
-                  height: 124,
-                  width: 124,
-                  marginBottom: 0,
-                  ...isSmallScreen ? { height: 72, width: 72 } : {},
-                }}
+                style={isSmallScreen ? smallScreenLogoStyles : logoStyles}
               />
               <Link
                 to="/"
