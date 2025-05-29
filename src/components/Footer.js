@@ -40,12 +40,6 @@ const Footer = () => {
         </a>
         <a
           className="footer-link"
-          href="https://twitter.com/drumsensei"
-        >
-          Twitter
-        </a>
-        <a
-          className="footer-link"
           href="https://github.com/m2mathew/"
         >
           GitHub
