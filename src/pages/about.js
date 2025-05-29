@@ -5,7 +5,6 @@ import React from 'react'
 import { graphql } from 'gatsby'
 
 // Internal Dependencies
-// import Bio from '../components/Bio'
 import Layout from '../components/Layout'
 
 // Component Definition
@@ -33,8 +32,8 @@ const About = (props) => {
               ReactJS Dallas software meetup
             </a>
             . My software development career kicked off at the (former) code
-            school in Austin, Texas called The Iron Yard. I occasionally help
-            mentor young coding ninjas at the{' '}
+            school in Austin, Texas called The Iron Yard. In ye olde pre-pandemic times,
+            I occasionally helped mentor young coding ninjas at the{' '}
             <a href="https://dojo.call-em-all.com/">Frisco Coder Dojo</a>.
           </p>
           <p>
@@ -128,7 +127,6 @@ const About = (props) => {
 };
 
 export default About
-
 
 export const pageQuery = graphql`
   query {
