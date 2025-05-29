@@ -48,14 +48,15 @@ const About = (props) => {
           <p>
             As a longtime musician and music educator I worked with some
             terrific programs as a performer and teacher. The list is long but
-            includes such powerhouses as Texas A&amp;M University-Commerce,
+            includes such powerhouses as Texas A&amp;M University-Commerce
+            (now East Texas A&amp;M University),
             Berkner High School, North Mesquite High School, Trinity High
-            School, Flower Mound High School, Texas Christian University,
+            School, Forney High School, Flower Mound High School, Texas Christian University,
             University of Texas at Arlington, and several others all over the
             state of Texas. On occasion I can be seen hitting drums or marimbas
             or timpani and sometimes even get to write music for other people
-            and groups. Thankfully, I do get to play drums at church every
-            weekend, so my funky beats continue to thrive.
+            and groups. I get to play drums at church some
+            weekends, so my funky beats continue to thrive.
           </p>
           <p>
             My most important work: husband to my lovely wife, father to my
@@ -70,11 +71,8 @@ const About = (props) => {
         <section>
           <h3>Find Me</h3>
           <p>
-            I post on Mastadon as{' '}
-            <a href="https://mstdn.social/@drumsensei">@drumsensei</a>{' '}
-            and also on Twitter as{' '}
-            <a href="https://twitter.com/drumsensei">@drumsensei</a>{' '}
-            (though less often these day).
+            I post on Mastodon as{' '}
+            <a href="https://mstdn.social/@drumsensei">@drumsensei</a>.
             I spend a good bit of time in the open-source awesomeness of{' '}
             <a href="https://github.com/m2mathew">GitHub</a>, too.
           </p>
@@ -91,11 +89,17 @@ const About = (props) => {
             <a href="https://daringfireball.net/projects/markdown/">Markdown</a>{' '}
             and <a href="">ReactJS</a>. The original incarnation of the site was
             a <a href="http://realmacsoftware.com/rapidweaver/">RapidWeaver</a>{' '}
-            project. After a brief rewrite in Jekyll, we ended up here! Hosting by{' '}
+            project. After a brief rewrite in Jekyll, we ended up here! A rewrite in{' '}
+            <a href="https://www.11ty.dev/">eleventy</a> has been rumored, but not verified.
+            Hosting by{' '}
             <a href="https://www.netlify.com/">Netlify</a>. Coding is done in{' '}
             <a href="https://code.visualstudio.com/">Visual Studio Code</a>{' '}
-            (with generous assistance from the dev tools). I use a 2021 16"
-            M1 MacBook Pro — it's the best machine I've ever used.
+            (with generous assistance from the dev tools). I use a 2025 16"
+            M4 MacBook Pro — it's the best machine I've ever used — and a couple of
+            Apple Studio Displays.
+          </p>
+
+          <p>
             As a constant learner, I will likely be poking and
             prodding here and there throughout this space, so it might not
             always look the same. Also, there is little guarantee that it will
