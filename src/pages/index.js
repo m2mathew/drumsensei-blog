@@ -38,7 +38,6 @@ class BlogIndex extends React.Component {
           meta={[{ name: 'description', content: description }]}
           title={title}
         />
-        <Bio />
         {posts.map(({ node }) => {
           const title = get(node, 'frontmatter.title') || node.fields.slug
 
@@ -58,6 +57,8 @@ class BlogIndex extends React.Component {
             </div>
           )
         })}
+
+        <Bio />
       </Layout>
     )
   }
