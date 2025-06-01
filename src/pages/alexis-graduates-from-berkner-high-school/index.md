@@ -38,6 +38,8 @@ Alexis started taking art classes in high school. She enjoyed the teachers and t
 
 Alexis graduated 30th her class. She was a member of the Berkner Band and Academic Decathlon team. We're so proud of her accomplishments and the person she has become!
 
+In our family, she plays the role of the "middle child" well. She's a peacemaker and diplomat, often helping resolve conflicts between family members. She's also a great big sister to Olivia, who looks up to her and wants to be just like her.
+
 Alexis plans on attending the University of North Texas in the fall, like her brother. She is planning on majoring in music and visual art at UNT. We are excited to see where this next chapter of her life leads!
 
 Side note: our youngest child Olivia now thinks she is required to attend UNT, too!
