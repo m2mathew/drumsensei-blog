@@ -144,18 +144,6 @@ jobs:
 
             // Enable auto-merge
             try {
-              // First, approve the PR
-              await github.rest.pulls.createReview({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                pull_number: pullRequest.number,
-                event: 'APPROVE',
-                body: 'Auto-approving release PR - all checks passed ✅'
-              });
-
-              console.log('PR automatically approved');
-
-              // Then enable auto-merge
               await github.rest.pulls.enableAutoMerge({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
