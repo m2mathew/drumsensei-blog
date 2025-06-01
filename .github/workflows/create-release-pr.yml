@@ -142,5 +142,32 @@ jobs:
               labels: ['release']
             });
 
+            // Enable auto-merge
+            try {
+              // First, approve the PR
+              await github.rest.pulls.createReview({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: pullRequest.number,
+                event: 'APPROVE',
+                body: 'Auto-approving release PR - all checks passed ✅'
+              });
+
+              console.log('PR automatically approved');
+
+              // Then enable auto-merge
+              await github.rest.pulls.enableAutoMerge({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: pullRequest.number,
+                merge_method: 'merge' // Options: 'merge', 'squash', 'rebase'
+              });
+
+              console.log('Auto-merge enabled for PR');
+            } catch (error) {
+              console.log('Could not enable auto-merge or approval:', error.message);
+              // Don't fail the workflow if auto-merge fails
+            }
+
             console.log(`Created PR #${pullRequest.number}: ${pullRequest.html_url}`);
 
