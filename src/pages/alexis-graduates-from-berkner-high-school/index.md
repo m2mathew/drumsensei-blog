@@ -22,7 +22,7 @@ That year saw Alexis join the band program, choosing bassoon as her instrument. 
 
 ### JH and HS Years
 
-Alexis made friends in the double reed section, and she started taking private lessons with the cluster's bassoon teacher. Ironically, her private teacher Mr. Morris used to be musician in the Berkner HS percussion section (front ensemble) when I was teaching there in the 2002-03 school year. It was really cool to see the music circle of life continue like that.
+Alexis made friends in the double reed section, and she started taking private lessons with the cluster's bassoon teacher. Ironically, her private teacher Mr. Morris used to be musician in the Berkner HS percussion section (front ensemble) when I was teaching there in the 2002-03 school year. It was really cool to see the music circle of life continue like that. Alexis also enjoyed many of her JH teachers and the Robotics and Theater classes at Apollo.
 
 Along the same lines, most of the fantastic band directors at Apollo JH and Berkner HS were former co-workers of mine from my time at Berkner. It was an honor to have these wonderful educators and humans teach my daughter and help her grow as a musician and a person.
 
@@ -36,10 +36,10 @@ Alexis started taking art classes in high school. She enjoyed the teachers and t
 
 ### Off to College
 
-Alexis graduated 30th her class. She was a member of the Berkner Band and Academic Decathlon team. We're so proud of her accomplishments and the person she has become!
+Alexis graduated 30th in her class. 🎉 She was a member of the Berkner Band and Academic Decathlon team. We're so proud of her accomplishments and the person she has become!
 
-In our family, she plays the role of the "middle child" well. She's a peacemaker and diplomat, often helping resolve conflicts between family members. She's also a great big sister to Olivia, who looks up to her and wants to be just like her.
+In our family, she plays the role of the "middle child" well. She's a peacemaker and diplomat, often helping resolve conflicts between family members. She's also a great big sister to Olivia, who loves to spend time with her sissy.
 
-Alexis plans on attending the University of North Texas in the fall, like her brother. She is planning on majoring in music and visual art at UNT. We are excited to see where this next chapter of her life leads!
+Alexis plans on attending the University of North Texas in the fall, like her brother. She is planning on majoring in music and visual art at UNT, with a possible extension into animation after the undergraduate years. We are excited to see where this next chapter of her life leads!
 
 Side note: our youngest child Olivia now thinks she is required to attend UNT, too!
