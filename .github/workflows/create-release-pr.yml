@@ -62,6 +62,7 @@ jobs:
           git push origin ${{ steps.version.outputs.BRANCH_NAME }}
 
       - name: Create Pull Request
+        id: create-pr
         uses: actions/github-script@v7
         with:
           script: |
@@ -77,7 +78,7 @@ jobs:
             } catch (error) {
               console.log('No previous release found, will include all merged PRs');
               // Set to a very old date to include all PRs if no previous release
-              lastReleaseDate = new Date('2020-01-01');
+              lastReleaseDate = new Date('2021-01-01');
             }
 
             // Get all merged PRs
@@ -142,20 +143,12 @@ jobs:
               labels: ['release']
             });
 
-            // Enable auto-merge
-            try {
-              await github.rest.pulls.enableAutoMerge({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                pull_number: pullRequest.number,
-                merge_method: 'merge' // Options: 'merge', 'squash', 'rebase'
-              });
-
-              console.log('Auto-merge enabled for PR');
-            } catch (error) {
-              console.log('Could not enable auto-merge or approval:', error.message);
-              // Don't fail the workflow if auto-merge fails
-            }
-
             console.log(`Created PR #${pullRequest.number}: ${pullRequest.html_url}`);
 
+            // Set output for next step
+            return { pullRequestNumber: pullRequest.number };
+
+      - name: Enable Pull Request Auto-merge
+        run: gh pr merge --merge --auto "${{ fromJson(steps.create-pr.outputs.result).pullRequestNumber }}"
+        env:
+          GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
