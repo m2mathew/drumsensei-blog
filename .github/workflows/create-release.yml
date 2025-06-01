@@ -1,0 +1,48 @@
+name: "Create GitHub Release"
+
+on:
+  pull_request:
+    types: [closed]
+    branches: [main]
+
+jobs:
+  create-release:
+    if: github.event.pull_request.merged == true && contains(github.event.pull_request.labels.*.name, 'release')
+    runs-on: ubuntu-latest
+    permissions: write-all
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+
+      - name: Extract version from PR title
+        id: version
+        run: |
+          PR_TITLE="${{ github.event.pull_request.title }}"
+          VERSION=$(echo "$PR_TITLE" | grep -oE '[0-9]+\.[0-9]+\.[0-9]+')
+          echo "RELEASE_VERSION=$VERSION" >> $GITHUB_OUTPUT
+          echo "Release version: $VERSION"
+
+      - name: Create GitHub Release
+        run: |
+          gh release create "v${{ steps.version.outputs.RELEASE_VERSION }}" \
+            --title "${{ steps.version.outputs.RELEASE_VERSION }}" \
+            --generate-notes \
+            --target "${{ github.event.pull_request.merge_commit_sha }}"
+        env:
+          GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+
+      - name: Comment on merged PR
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: ${{ github.event.pull_request.number }},
+              body: `🎉 **Release ${{ steps.version.outputs.RELEASE_VERSION }} created!**
+
+              GitHub release with auto-generated notes: https://github.com/${{ github.repository }}/releases/tag/v${{ steps.version.outputs.RELEASE_VERSION }}`
+            });
