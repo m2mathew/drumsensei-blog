@@ -223,7 +223,7 @@ class Layout extends Component {
             marginLeft: 'auto',
             marginRight: 'auto',
             marginTop: 4,
-            maxWidth: rhythm(25),
+            maxWidth: rhythm(28),
             padding: `${rhythm(0.5)} ${rhythm(3 / 4)}`,
           }}
         >
