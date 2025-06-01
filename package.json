@@ -23,20 +23,20 @@
     "gatsby-transformer-remark": "^2.8.42",
     "gatsby-transformer-sharp": "^2.5.18",
     "lodash": "^4.17.20",
-    "prismjs": "^1.22.0",
+    "prismjs": "^1.30.0",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-helmet": "^6.1.0",
-    "react-typography": "^0.16.19",
+    "react-typography": "^0.16.23",
     "typeface-merriweather": "^1.1.13",
     "typeface-montserrat": "^1.1.13",
-    "typography": "^0.16.19",
+    "typography": "^0.16.24",
     "typography-theme-wordpress-2016": "^0.16.19"
   },
   "devDependencies": {
-    "eslint": "^7.11.0",
-    "eslint-plugin-react": "^7.21.4",
-    "prettier": "^2.1.2"
+    "eslint": "^7.32.0",
+    "eslint-plugin-react": "^7.37.5",
+    "prettier": "^2.8.8"
   },
   "homepage": "https://drumsensei.com",
   "keywords": [
