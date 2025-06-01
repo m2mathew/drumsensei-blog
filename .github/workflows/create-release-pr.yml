@@ -9,11 +9,18 @@ jobs:
     permissions: write-all
 
     steps:
+      - name: Generate GitHub App Token
+        id: generate_token
+        uses: tibdex/github-app-token@v1
+        with:
+          app_id: ${{ secrets.APP_ID }}
+          private_key: ${{ secrets.PRIVATE_KEY }}
+
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          token: ${{ steps.generate_token.outputs.token }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -126,12 +133,12 @@ jobs:
               base: 'main',
               body: `## Release ${{ steps.version.outputs.RELEASE_VERSION }}
 
-              This PR contains the version bump for release ${{ steps.version.outputs.RELEASE_VERSION }}.
+              - Bump version for release ${{ steps.version.outputs.RELEASE_VERSION }}
 
-              ### Changes
-              - Bumped version to ${{ steps.version.outputs.RELEASE_VERSION }}
+              ### Updates since last release:
 
-              ### Merged Pull Requests
+              Test the following changes once the staging deployment is ready:
+
               ${prList}`,
             });
 
@@ -148,7 +155,7 @@ jobs:
             // Set output for next step
             return { pullRequestNumber: pullRequest.number };
 
-      - name: Enable Pull Request Auto-merge
+      - name: Enable Pull Request Automerge
         run: gh pr merge --merge --auto "${{ fromJson(steps.create-pr.outputs.result).pullRequestNumber }}"
         env:
-          GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          GH_TOKEN: ${{ steps.generate_token.outputs.token }}
