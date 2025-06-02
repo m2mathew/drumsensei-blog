@@ -133,9 +133,9 @@ jobs:
               base: 'main',
               body: `## Release ${{ steps.version.outputs.RELEASE_VERSION }}
 
-              - Bump version for release ${{ steps.version.outputs.RELEASE_VERSION }}
+              - Bump version to ${{ steps.version.outputs.RELEASE_VERSION }}
 
-              ### Updates since last release:
+              ### Updates since last release
 
               Test the following changes once the staging deployment is ready:
 
