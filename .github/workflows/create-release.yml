@@ -34,7 +34,7 @@ jobs:
 
       - name: Create GitHub Release
         run: |
-          gh release create "v${{ steps.version.outputs.RELEASE_VERSION }}" \
+          gh release create "${{ steps.version.outputs.RELEASE_VERSION }}" \
             --title "${{ steps.version.outputs.RELEASE_VERSION }}" \
             --generate-notes \
             --target "${{ github.event.pull_request.merge_commit_sha }}"
@@ -51,5 +51,5 @@ jobs:
               issue_number: ${{ github.event.pull_request.number }},
               body: `🎉 **Release ${{ steps.version.outputs.RELEASE_VERSION }} created!**
 
-              GitHub release with auto-generated notes: https://github.com/${{ github.repository }}/releases/tag/v${{ steps.version.outputs.RELEASE_VERSION }}`
+              GitHub release with auto-generated notes: https://github.com/${{ github.repository }}/releases/tag/${{ steps.version.outputs.RELEASE_VERSION }}`
             });
